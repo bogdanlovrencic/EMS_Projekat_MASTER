@@ -1,8 +1,41 @@
 ﻿using System;
 
 namespace FTN.Common
-{	
-	public enum PhaseCode : short
+{
+
+    public enum MeasurementType
+    {
+        activePower,
+        voltage,
+    }
+
+    public enum GeneratorType
+    {
+
+        coal,
+
+        gas,
+
+        hydro,
+
+        oil,
+
+        solar,
+
+        wind,
+    }
+
+    public enum Direction
+    {
+
+        read,
+
+        readWrite,
+
+        write,
+    }
+
+    public enum PhaseCode : short
 	{
 		Unknown = 0x0,
 		N = 0x1,

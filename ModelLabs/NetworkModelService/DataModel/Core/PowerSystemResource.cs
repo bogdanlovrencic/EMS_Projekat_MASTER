@@ -11,5 +11,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
         public PowerSystemResource(long globalId) : base(globalId)
         {
         }
+
+
     }
 }
