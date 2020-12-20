@@ -4,8 +4,8 @@ using FTN;
 
 namespace FTN.Services.NetworkModelService.DataModel
 {
-    public class Equipment : PowerSystemResource {
-        
-       
+
+    public class ConnectivityNodeContainer : PowerSystemResource {
+
     }
 }
