@@ -1,0 +1,1270 @@
+7/29/2019 4:37:35 PM : Starting Network Model Serivice...
+7/29/2019 4:37:41 PM : The WCF service GenericDataAccess is ready.
+7/29/2019 4:37:41 PM : Endpoints:
+7/29/2019 4:37:41 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/29/2019 4:37:41 PM : Connection string: ../NetworkModelData.data
+7/29/2019 4:37:41 PM : Trace level: Info
+7/29/2019 4:37:41 PM : The Network Model Service is started.
+7/29/2019 4:37:41 PM : Press <Enter> to stop the service.
+7/29/2019 4:38:11 PM : The Network Model Service is closed.
+7/29/2019 8:33:25 PM : Starting Network Model Serivice...
+7/29/2019 8:33:25 PM : The WCF service GenericDataAccess is ready.
+7/29/2019 8:33:25 PM : Endpoints:
+7/29/2019 8:33:25 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/29/2019 8:33:25 PM : Connection string: ../NetworkModelData.data
+7/29/2019 8:33:25 PM : Trace level: Info
+7/29/2019 8:33:25 PM : The Network Model Service is started.
+7/29/2019 8:33:25 PM : Press <Enter> to stop the service.
+7/29/2019 8:33:57 PM : The Network Model Service is closed.
+7/29/2019 8:35:43 PM : Starting Network Model Serivice...
+7/29/2019 8:35:44 PM : The WCF service GenericDataAccess is ready.
+7/29/2019 8:35:44 PM : Endpoints:
+7/29/2019 8:35:44 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/29/2019 8:35:44 PM : Connection string: ../NetworkModelData.data
+7/29/2019 8:35:44 PM : Trace level: Info
+7/29/2019 8:35:44 PM : The Network Model Service is started.
+7/29/2019 8:35:44 PM : Press <Enter> to stop the service.
+7/29/2019 8:36:34 PM : Starting Network Model Serivice...
+7/29/2019 8:36:35 PM : The WCF service GenericDataAccess is ready.
+7/29/2019 8:36:35 PM : Endpoints:
+7/29/2019 8:36:35 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/29/2019 8:36:35 PM : Connection string: ../NetworkModelData.data
+7/29/2019 8:36:35 PM : Trace level: Info
+7/29/2019 8:36:35 PM : The Network Model Service is started.
+7/29/2019 8:36:35 PM : Press <Enter> to stop the service.
+7/29/2019 8:37:57 PM : Starting Network Model Serivice...
+7/29/2019 8:37:57 PM : The WCF service GenericDataAccess is ready.
+7/29/2019 8:37:57 PM : Endpoints:
+7/29/2019 8:37:57 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/29/2019 8:37:57 PM : Connection string: ../NetworkModelData.data
+7/29/2019 8:37:57 PM : Trace level: Info
+7/29/2019 8:37:57 PM : The Network Model Service is started.
+7/29/2019 8:37:57 PM : Press <Enter> to stop the service.
+7/30/2019 2:26:51 PM : Starting Network Model Serivice...
+7/30/2019 2:26:52 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 2:26:52 PM : Endpoints:
+7/30/2019 2:26:52 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 2:26:52 PM : Connection string: ../NetworkModelData.data
+7/30/2019 2:26:52 PM : Trace level: Info
+7/30/2019 2:26:52 PM : The Network Model Service is started.
+7/30/2019 2:26:52 PM : Press <Enter> to stop the service.
+7/30/2019 2:30:21 PM : The Network Model Service is closed.
+7/30/2019 2:31:47 PM : Starting Network Model Serivice...
+7/30/2019 2:31:48 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 2:31:48 PM : Endpoints:
+7/30/2019 2:31:48 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 2:31:48 PM : Connection string: ../NetworkModelData.data
+7/30/2019 2:31:48 PM : Trace level: Info
+7/30/2019 2:31:48 PM : The Network Model Service is started.
+7/30/2019 2:31:48 PM : Press <Enter> to stop the service.
+7/30/2019 3:18:29 PM : Starting Network Model Serivice...
+7/30/2019 3:18:30 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 3:18:30 PM : Endpoints:
+7/30/2019 3:18:30 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 3:18:30 PM : Connection string: ../NetworkModelData.data
+7/30/2019 3:18:30 PM : Trace level: Info
+7/30/2019 3:18:30 PM : The Network Model Service is started.
+7/30/2019 3:18:30 PM : Press <Enter> to stop the service.
+7/30/2019 3:21:39 PM : Starting Network Model Serivice...
+7/30/2019 3:21:39 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 3:21:39 PM : Endpoints:
+7/30/2019 3:21:39 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 3:21:39 PM : Connection string: ../NetworkModelData.data
+7/30/2019 3:21:39 PM : Trace level: Info
+7/30/2019 3:21:39 PM : The Network Model Service is started.
+7/30/2019 3:21:39 PM : Press <Enter> to stop the service.
+7/30/2019 3:31:33 PM : Starting Network Model Serivice...
+7/30/2019 3:31:34 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 3:31:34 PM : Endpoints:
+7/30/2019 3:31:34 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 3:31:34 PM : Connection string: ../NetworkModelData.data
+7/30/2019 3:31:34 PM : Trace level: Info
+7/30/2019 3:31:34 PM : The Network Model Service is started.
+7/30/2019 3:31:34 PM : Press <Enter> to stop the service.
+7/30/2019 3:40:30 PM : Starting Network Model Serivice...
+7/30/2019 3:40:30 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 3:40:30 PM : Endpoints:
+7/30/2019 3:40:30 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 3:40:30 PM : Connection string: ../NetworkModelData.data
+7/30/2019 3:40:30 PM : Trace level: Info
+7/30/2019 3:40:30 PM : The Network Model Service is started.
+7/30/2019 3:40:30 PM : Press <Enter> to stop the service.
+7/30/2019 3:42:32 PM : Starting Network Model Serivice...
+7/30/2019 3:42:32 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 3:42:32 PM : Endpoints:
+7/30/2019 3:42:32 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 3:42:32 PM : Connection string: ../NetworkModelData.data
+7/30/2019 3:42:32 PM : Trace level: Info
+7/30/2019 3:42:32 PM : The Network Model Service is started.
+7/30/2019 3:42:32 PM : Press <Enter> to stop the service.
+7/30/2019 3:43:28 PM : Starting Network Model Serivice...
+7/30/2019 4:54:22 PM : Starting Network Model Serivice...
+7/30/2019 4:54:28 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 4:54:28 PM : Endpoints:
+7/30/2019 4:54:28 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 4:54:28 PM : Connection string: ../NetworkModelData.data
+7/30/2019 4:54:28 PM : Trace level: Info
+7/30/2019 4:54:28 PM : The Network Model Service is started.
+7/30/2019 4:54:28 PM : Press <Enter> to stop the service.
+7/30/2019 4:55:25 PM : Applying  delta to network model.
+7/30/2019 4:55:30 PM : Inserting entity with GID (0000000100000001).
+7/30/2019 4:55:42 PM : Inserting entity with GID (0000000200000001).
+7/30/2019 4:56:44 PM : Starting Network Model Serivice...
+7/30/2019 4:56:50 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 4:56:50 PM : Endpoints:
+7/30/2019 4:56:50 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 4:56:50 PM : Connection string: ../NetworkModelData.data
+7/30/2019 4:56:50 PM : Trace level: Info
+7/30/2019 4:56:50 PM : The Network Model Service is started.
+7/30/2019 4:56:50 PM : Press <Enter> to stop the service.
+7/30/2019 4:57:09 PM : Applying  delta to network model.
+7/30/2019 4:57:09 PM : Inserting entity with GID (0000000100000001).
+7/30/2019 4:57:09 PM : Inserting entity with GID (0000000200000001).
+7/30/2019 4:57:09 PM : Inserting entity with GID (0000000300000001).
+7/30/2019 4:57:09 PM : Inserting entity with GID (0000000400000001).
+7/30/2019 4:57:09 PM : Inserting entity with GID (0000000500000001).
+7/30/2019 4:57:09 PM : Inserting entity with GID (0000000600000001).
+7/30/2019 4:57:09 PM : Applying delta to network model successfully finished.
+7/30/2019 5:13:33 PM : The Network Model Service is closed.
+7/30/2019 5:13:49 PM : Starting Network Model Serivice...
+7/30/2019 5:14:07 PM : Inserting entity with GID (0000000100000001).
+7/30/2019 5:14:07 PM : Inserting entity with GID (0000000200000001).
+7/30/2019 5:14:07 PM : Inserting entity with GID (0000000300000001).
+7/30/2019 5:14:07 PM : Inserting entity with GID (0000000400000001).
+7/30/2019 5:14:07 PM : Inserting entity with GID (0000000500000001).
+7/30/2019 5:14:07 PM : Inserting entity with GID (0000000600000001).
+7/30/2019 5:14:07 PM : The WCF service GenericDataAccess is ready.
+7/30/2019 5:14:07 PM : Endpoints:
+7/30/2019 5:14:07 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/30/2019 5:14:07 PM : Connection string: ../NetworkModelData.data
+7/30/2019 5:14:07 PM : Trace level: Info
+7/30/2019 5:14:07 PM : The Network Model Service is started.
+7/30/2019 5:14:07 PM : Press <Enter> to stop the service.
+7/31/2019 4:44:13 PM : Starting Network Model Serivice...
+7/31/2019 4:44:14 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 4:44:14 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 4:44:14 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 4:44:14 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 4:44:14 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 4:44:14 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 4:44:14 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 4:44:14 PM : Endpoints:
+7/31/2019 4:44:14 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 4:44:14 PM : Connection string: ../NetworkModelData.data
+7/31/2019 4:44:14 PM : Trace level: Info
+7/31/2019 4:44:14 PM : The Network Model Service is started.
+7/31/2019 4:44:14 PM : Press <Enter> to stop the service.
+7/31/2019 4:48:57 PM : Starting Network Model Serivice...
+7/31/2019 4:48:57 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 4:48:57 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 4:48:57 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 4:48:57 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 4:48:57 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 4:48:57 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 4:48:57 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 4:48:57 PM : Endpoints:
+7/31/2019 4:48:57 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 4:48:57 PM : Connection string: ../NetworkModelData.data
+7/31/2019 4:48:57 PM : Trace level: Info
+7/31/2019 4:48:57 PM : The Network Model Service is started.
+7/31/2019 4:48:57 PM : Press <Enter> to stop the service.
+7/31/2019 4:57:59 PM : Starting Network Model Serivice...
+7/31/2019 4:57:59 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 4:57:59 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 4:57:59 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 4:57:59 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 4:57:59 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 4:57:59 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 4:58:00 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 4:58:00 PM : Endpoints:
+7/31/2019 4:58:00 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 4:58:00 PM : Connection string: ../NetworkModelData.data
+7/31/2019 4:58:00 PM : Trace level: Info
+7/31/2019 4:58:00 PM : The Network Model Service is started.
+7/31/2019 4:58:00 PM : Press <Enter> to stop the service.
+7/31/2019 5:00:01 PM : Starting Network Model Serivice...
+7/31/2019 5:00:01 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 5:00:01 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 5:00:01 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 5:00:01 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 5:00:01 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 5:00:01 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 5:00:01 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 5:00:01 PM : Endpoints:
+7/31/2019 5:00:01 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 5:00:01 PM : Connection string: ../NetworkModelData.data
+7/31/2019 5:00:01 PM : Trace level: Info
+7/31/2019 5:00:01 PM : The Network Model Service is started.
+7/31/2019 5:00:01 PM : Press <Enter> to stop the service.
+7/31/2019 5:00:18 PM : Starting Network Model Serivice...
+7/31/2019 5:00:19 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 5:00:19 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 5:00:19 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 5:00:19 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 5:00:19 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 5:00:19 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 5:00:19 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 5:00:19 PM : Endpoints:
+7/31/2019 5:00:19 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 5:00:19 PM : Connection string: ../NetworkModelData.data
+7/31/2019 5:00:19 PM : Trace level: Info
+7/31/2019 5:00:19 PM : The Network Model Service is started.
+7/31/2019 5:00:19 PM : Press <Enter> to stop the service.
+7/31/2019 5:14:33 PM : Starting Network Model Serivice...
+7/31/2019 5:14:33 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 5:14:33 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 5:14:33 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 5:14:33 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 5:14:33 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 5:14:33 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 5:14:33 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 5:14:33 PM : Endpoints:
+7/31/2019 5:14:33 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 5:14:33 PM : Connection string: ../NetworkModelData.data
+7/31/2019 5:14:33 PM : Trace level: Info
+7/31/2019 5:14:33 PM : The Network Model Service is started.
+7/31/2019 5:14:33 PM : Press <Enter> to stop the service.
+7/31/2019 5:54:58 PM : Starting Network Model Serivice...
+7/31/2019 5:54:58 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 5:54:58 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 5:54:58 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 5:54:58 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 5:54:58 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 5:54:58 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 5:54:59 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 5:54:59 PM : Endpoints:
+7/31/2019 5:54:59 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 5:54:59 PM : Connection string: ../NetworkModelData.data
+7/31/2019 5:54:59 PM : Trace level: Info
+7/31/2019 5:54:59 PM : The Network Model Service is started.
+7/31/2019 5:54:59 PM : Press <Enter> to stop the service.
+7/31/2019 5:56:23 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000001).
+7/31/2019 5:56:23 PM : Getting values for resource with ID = 0x0000000200000001 failed. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000001).
+7/31/2019 5:57:29 PM : Starting Network Model Serivice...
+7/31/2019 5:57:30 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 5:57:30 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 5:57:30 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 5:57:30 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 5:57:30 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 5:57:30 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 5:57:30 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 5:57:30 PM : Endpoints:
+7/31/2019 5:57:30 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 5:57:30 PM : Connection string: ../NetworkModelData.data
+7/31/2019 5:57:30 PM : Trace level: Info
+7/31/2019 5:57:30 PM : The Network Model Service is started.
+7/31/2019 5:57:30 PM : Press <Enter> to stop the service.
+7/31/2019 5:57:38 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000001).
+7/31/2019 5:57:38 PM : Getting values for resource with ID = 0x0000000200000001 failed. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000001).
+7/31/2019 5:57:56 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000300000001).
+7/31/2019 5:57:56 PM : Getting values for resource with ID = 0x0000000300000001 failed. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000300000001).
+7/31/2019 5:58:04 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000400000001).
+7/31/2019 5:58:04 PM : Getting values for resource with ID = 0x0000000400000001 failed. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000400000001).
+7/31/2019 6:01:18 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000400000001).
+7/31/2019 6:01:18 PM : Getting values for resource with ID = 0x0000000400000001 failed. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000400000001).
+7/31/2019 6:20:42 PM : Starting Network Model Serivice...
+7/31/2019 6:20:43 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 6:20:43 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 6:20:43 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 6:20:43 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 6:20:43 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 6:20:43 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 6:20:43 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 6:20:43 PM : Endpoints:
+7/31/2019 6:20:43 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 6:20:43 PM : Connection string: ../NetworkModelData.data
+7/31/2019 6:20:43 PM : Trace level: Info
+7/31/2019 6:20:43 PM : The Network Model Service is started.
+7/31/2019 6:20:43 PM : Press <Enter> to stop the service.
+7/31/2019 6:21:03 PM : Applying  delta to network model.
+7/31/2019 6:21:03 PM : Inserting entity with GID (0000000100000002).
+7/31/2019 6:21:03 PM : Inserting entity with GID (0000000200000002).
+7/31/2019 6:21:03 PM : Inserting entity with GID (0000000300000002).
+7/31/2019 6:21:03 PM : Inserting entity with GID (0000000400000002).
+7/31/2019 6:21:03 PM : Inserting entity with GID (0000000500000002).
+7/31/2019 6:21:03 PM : Inserting entity with GID (0000000600000002).
+7/31/2019 6:21:03 PM : Applying delta to network model successfully finished.
+7/31/2019 8:18:39 PM : Starting Network Model Serivice...
+7/31/2019 8:18:39 PM : Inserting entity with GID (0000000100000001).
+7/31/2019 8:18:39 PM : Inserting entity with GID (0000000200000001).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000300000001).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000400000001).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000500000001).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000600000001).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000100000002).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000200000002).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000300000002).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000400000002).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000500000002).
+7/31/2019 8:18:40 PM : Inserting entity with GID (0000000600000002).
+7/31/2019 8:18:40 PM : The WCF service GenericDataAccess is ready.
+7/31/2019 8:18:40 PM : Endpoints:
+7/31/2019 8:18:40 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/31/2019 8:18:40 PM : Connection string: ../NetworkModelData.data
+7/31/2019 8:18:40 PM : Trace level: Info
+7/31/2019 8:18:40 PM : The Network Model Service is started.
+7/31/2019 8:18:40 PM : Press <Enter> to stop the service.
+7/31/2019 8:19:14 PM : Applying  delta to network model.
+7/31/2019 8:19:14 PM : Inserting entity with GID (0000000100000003).
+7/31/2019 8:19:14 PM : Inserting entity with GID (0000000100000004).
+7/31/2019 8:19:14 PM : Inserting entity with GID (0000000200000003).
+7/31/2019 8:19:14 PM : Inserting entity with GID (0000000300000003).
+7/31/2019 8:19:14 PM : Inserting entity with GID (0000000400000003).
+7/31/2019 8:19:14 PM : Inserting entity with GID (0000000500000003).
+7/31/2019 8:19:14 PM : Inserting entity with GID (0000000600000003).
+7/31/2019 8:19:14 PM : Applying delta to network model successfully finished.
+7/31/2019 8:20:15 PM : Applying  delta to network model.
+7/31/2019 8:20:15 PM : Inserting entity with GID (0000000100000005).
+7/31/2019 8:20:15 PM : Inserting entity with GID (0000000100000006).
+7/31/2019 8:20:15 PM : Inserting entity with GID (0000000200000004).
+7/31/2019 8:20:15 PM : Inserting entity with GID (0000000300000004).
+7/31/2019 8:20:15 PM : Inserting entity with GID (0000000400000004).
+7/31/2019 8:20:15 PM : Inserting entity with GID (0000000500000004).
+7/31/2019 8:20:15 PM : Inserting entity with GID (0000000600000004).
+7/31/2019 8:20:15 PM : Applying delta to network model successfully finished.
+7/31/2019 8:25:06 PM : The Network Model Service is closed.
+8/1/2019 4:06:07 PM : Starting Network Model Serivice...
+8/1/2019 4:06:08 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 4:06:08 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 4:06:08 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 4:06:08 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 4:06:08 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 4:06:08 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 4:06:08 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 4:06:09 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 4:06:09 PM : Endpoints:
+8/1/2019 4:06:09 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 4:06:09 PM : Connection string: ../NetworkModelData.data
+8/1/2019 4:06:09 PM : Trace level: Info
+8/1/2019 4:06:09 PM : The Network Model Service is started.
+8/1/2019 4:06:09 PM : Press <Enter> to stop the service.
+8/1/2019 4:07:57 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000004).
+8/1/2019 4:07:57 PM : Getting values for resource with ID = 0x0000000200000004 failed. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000004).
+8/1/2019 4:11:05 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000300000004).
+8/1/2019 4:11:05 PM : Getting values for resource with ID = 0x0000000300000004 failed. Failed to get values for entity with GID = 0x0000000300000004. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000300000004).
+8/1/2019 4:20:42 PM : Starting Network Model Serivice...
+8/1/2019 4:20:42 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 4:20:42 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 4:20:42 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 4:20:42 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 4:20:42 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 4:20:42 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 4:20:42 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 4:20:43 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 4:20:43 PM : Endpoints:
+8/1/2019 4:20:43 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 4:20:43 PM : Connection string: ../NetworkModelData.data
+8/1/2019 4:20:43 PM : Trace level: Info
+8/1/2019 4:20:43 PM : The Network Model Service is started.
+8/1/2019 4:20:43 PM : Press <Enter> to stop the service.
+8/1/2019 4:21:02 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000004).
+8/1/2019 4:21:02 PM : Getting values for resource with ID = 0x0000000200000004 failed. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000004).
+8/1/2019 4:23:01 PM : Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000004).
+8/1/2019 4:23:07 PM : Getting values for resource with ID = 0x0000000200000004 failed. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONEQUIPMENT_TERMINALS for entity (GID = 0x0000000200000004).
+8/1/2019 4:29:32 PM : Starting Network Model Serivice...
+8/1/2019 4:29:33 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 4:29:33 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 4:29:33 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 4:29:33 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 4:29:33 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 4:29:33 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 4:29:33 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 4:29:33 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 4:29:33 PM : Endpoints:
+8/1/2019 4:29:33 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 4:29:33 PM : Connection string: ../NetworkModelData.data
+8/1/2019 4:29:33 PM : Trace level: Info
+8/1/2019 4:29:33 PM : The Network Model Service is started.
+8/1/2019 4:29:33 PM : Press <Enter> to stop the service.
+8/1/2019 4:31:25 PM : The Network Model Service is closed.
+8/1/2019 4:47:58 PM : Starting Network Model Serivice...
+8/1/2019 4:47:59 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 4:47:59 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 4:47:59 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 4:47:59 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 4:47:59 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 4:47:59 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 4:47:59 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 4:47:59 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 4:47:59 PM : Endpoints:
+8/1/2019 4:47:59 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 4:47:59 PM : Connection string: ../NetworkModelData.data
+8/1/2019 4:47:59 PM : Trace level: Info
+8/1/2019 4:47:59 PM : The Network Model Service is started.
+8/1/2019 4:47:59 PM : Press <Enter> to stop the service.
+8/1/2019 4:51:45 PM : Starting Network Model Serivice...
+8/1/2019 4:51:45 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 4:51:45 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 4:51:45 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 4:51:45 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 4:51:45 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 4:51:45 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 4:51:45 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 4:51:46 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 4:51:46 PM : Endpoints:
+8/1/2019 4:51:46 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 4:51:46 PM : Connection string: ../NetworkModelData.data
+8/1/2019 4:51:46 PM : Trace level: Info
+8/1/2019 4:51:46 PM : The Network Model Service is started.
+8/1/2019 4:51:46 PM : Press <Enter> to stop the service.
+8/1/2019 4:55:01 PM : Starting Network Model Serivice...
+8/1/2019 4:55:02 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 4:55:02 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 4:55:02 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 4:55:02 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 4:55:02 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 4:55:02 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 4:55:02 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 4:55:02 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 4:55:02 PM : Endpoints:
+8/1/2019 4:55:02 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 4:55:02 PM : Connection string: ../NetworkModelData.data
+8/1/2019 4:55:02 PM : Trace level: Info
+8/1/2019 4:55:02 PM : The Network Model Service is started.
+8/1/2019 4:55:02 PM : Press <Enter> to stop the service.
+8/1/2019 4:56:54 PM : Starting Network Model Serivice...
+8/1/2019 4:56:55 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 4:56:55 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 4:56:55 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 4:56:55 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 4:56:55 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 4:56:55 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 4:56:55 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 4:56:55 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 4:56:55 PM : Endpoints:
+8/1/2019 4:56:55 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 4:56:55 PM : Connection string: ../NetworkModelData.data
+8/1/2019 4:56:55 PM : Trace level: Info
+8/1/2019 4:56:55 PM : The Network Model Service is started.
+8/1/2019 4:56:55 PM : Press <Enter> to stop the service.
+8/1/2019 5:28:57 PM : Starting Network Model Serivice...
+8/1/2019 5:28:57 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 5:28:57 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 5:28:57 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 5:28:58 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 5:28:58 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 5:28:58 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 5:28:58 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 5:28:58 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 5:28:58 PM : Endpoints:
+8/1/2019 5:28:58 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 5:28:58 PM : Connection string: ../NetworkModelData.data
+8/1/2019 5:28:58 PM : Trace level: Info
+8/1/2019 5:28:58 PM : The Network Model Service is started.
+8/1/2019 5:28:58 PM : Press <Enter> to stop the service.
+8/1/2019 5:30:45 PM : The Network Model Service is closed.
+8/1/2019 6:55:30 PM : Starting Network Model Serivice...
+8/1/2019 6:55:31 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 6:55:31 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 6:55:31 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 6:55:31 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 6:55:31 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 6:55:31 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 6:55:31 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 6:55:31 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 6:55:31 PM : Endpoints:
+8/1/2019 6:55:31 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 6:55:31 PM : Connection string: ../NetworkModelData.data
+8/1/2019 6:55:31 PM : Trace level: Info
+8/1/2019 6:55:31 PM : The Network Model Service is started.
+8/1/2019 6:55:31 PM : Press <Enter> to stop the service.
+8/1/2019 7:02:06 PM : Starting Network Model Serivice...
+8/1/2019 7:02:06 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 7:02:06 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 7:02:06 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 7:02:06 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 7:02:06 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 7:02:06 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 7:02:06 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 7:02:07 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 7:02:07 PM : Endpoints:
+8/1/2019 7:02:07 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 7:02:07 PM : Connection string: ../NetworkModelData.data
+8/1/2019 7:02:07 PM : Trace level: Info
+8/1/2019 7:02:07 PM : The Network Model Service is started.
+8/1/2019 7:02:07 PM : Press <Enter> to stop the service.
+8/1/2019 7:16:13 PM : Starting Network Model Serivice...
+8/1/2019 7:16:14 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 7:16:14 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 7:16:14 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 7:16:14 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 7:16:14 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 7:16:14 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 7:16:14 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 7:16:14 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 7:16:14 PM : Endpoints:
+8/1/2019 7:16:14 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 7:16:14 PM : Connection string: ../NetworkModelData.data
+8/1/2019 7:16:14 PM : Trace level: Info
+8/1/2019 7:16:14 PM : The Network Model Service is started.
+8/1/2019 7:16:14 PM : Press <Enter> to stop the service.
+8/1/2019 7:17:50 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:17:50 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:17:50 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:17:50 PM : IteratorNext failed. Iterator ID = 18. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+8/1/2019 7:51:09 PM : Starting Network Model Serivice...
+8/1/2019 7:51:09 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 7:51:09 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 7:51:09 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 7:51:09 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 7:51:09 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 7:51:09 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 7:51:09 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 7:51:10 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 7:51:10 PM : Endpoints:
+8/1/2019 7:51:10 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 7:51:10 PM : Connection string: ../NetworkModelData.data
+8/1/2019 7:51:10 PM : Trace level: Info
+8/1/2019 7:51:10 PM : The Network Model Service is started.
+8/1/2019 7:51:10 PM : Press <Enter> to stop the service.
+8/1/2019 7:51:35 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:51:35 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:51:35 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:51:35 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+8/1/2019 7:58:11 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:58:12 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:58:12 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 7:58:12 PM : IteratorNext failed. Iterator ID = 16. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+8/1/2019 7:59:50 PM : Starting Network Model Serivice...
+8/1/2019 7:59:51 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 7:59:51 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 7:59:51 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 7:59:51 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 7:59:51 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 7:59:51 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 7:59:51 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 7:59:51 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 7:59:51 PM : Endpoints:
+8/1/2019 7:59:51 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 7:59:51 PM : Connection string: ../NetworkModelData.data
+8/1/2019 7:59:51 PM : Trace level: Info
+8/1/2019 7:59:51 PM : The Network Model Service is started.
+8/1/2019 7:59:51 PM : Press <Enter> to stop the service.
+8/1/2019 8:00:27 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:00:28 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:00:28 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:00:28 PM : IteratorNext failed. Iterator ID = 8. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+8/1/2019 8:01:04 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:01:04 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:01:04 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:01:04 PM : IteratorNext failed. Iterator ID = 13. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+8/1/2019 8:02:11 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:02:11 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:02:11 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:02:15 PM : IteratorNext failed. Iterator ID = 15. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+8/1/2019 8:03:47 PM : Starting Network Model Serivice...
+8/1/2019 8:03:47 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 8:03:47 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 8:03:47 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 8:03:47 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 8:03:47 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 8:03:47 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 8:03:47 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 8:03:48 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 8:03:48 PM : Endpoints:
+8/1/2019 8:03:48 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 8:03:48 PM : Connection string: ../NetworkModelData.data
+8/1/2019 8:03:48 PM : Trace level: Info
+8/1/2019 8:03:48 PM : The Network Model Service is started.
+8/1/2019 8:03:48 PM : Press <Enter> to stop the service.
+8/1/2019 8:04:07 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:04:08 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:04:08 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:04:13 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+8/1/2019 8:05:31 PM : Starting Network Model Serivice...
+8/1/2019 8:05:31 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 8:05:31 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 8:05:31 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 8:05:31 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 8:05:31 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 8:05:31 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 8:05:31 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 8:05:31 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 8:05:31 PM : Endpoints:
+8/1/2019 8:05:31 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 8:05:31 PM : Connection string: ../NetworkModelData.data
+8/1/2019 8:05:31 PM : Trace level: Info
+8/1/2019 8:05:31 PM : The Network Model Service is started.
+8/1/2019 8:05:31 PM : Press <Enter> to stop the service.
+8/1/2019 8:06:02 PM : Starting Network Model Serivice...
+8/1/2019 8:06:02 PM : Inserting entity with GID (0000000100000005).
+8/1/2019 8:06:02 PM : Inserting entity with GID (0000000100000006).
+8/1/2019 8:06:02 PM : Inserting entity with GID (0000000200000004).
+8/1/2019 8:06:02 PM : Inserting entity with GID (0000000300000004).
+8/1/2019 8:06:02 PM : Inserting entity with GID (0000000400000004).
+8/1/2019 8:06:02 PM : Inserting entity with GID (0000000500000004).
+8/1/2019 8:06:02 PM : Inserting entity with GID (0000000600000004).
+8/1/2019 8:06:02 PM : The WCF service GenericDataAccess is ready.
+8/1/2019 8:06:02 PM : Endpoints:
+8/1/2019 8:06:02 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+8/1/2019 8:06:02 PM : Connection string: ../NetworkModelData.data
+8/1/2019 8:06:02 PM : Trace level: Info
+8/1/2019 8:06:02 PM : The Network Model Service is started.
+8/1/2019 8:06:02 PM : Press <Enter> to stop the service.
+8/1/2019 8:07:03 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:07:03 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:07:03 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+8/1/2019 8:07:03 PM : IteratorNext failed. Iterator ID = 18. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/11/2019 3:17:50 PM : Starting Network Model Serivice...
+9/11/2019 3:17:51 PM : Inserting entity with GID (0000000100000005).
+9/11/2019 3:17:51 PM : Inserting entity with GID (0000000100000006).
+9/11/2019 3:17:51 PM : Inserting entity with GID (0000000200000004).
+9/11/2019 3:17:51 PM : Inserting entity with GID (0000000300000004).
+9/11/2019 3:17:51 PM : Inserting entity with GID (0000000400000004).
+9/11/2019 3:17:51 PM : Inserting entity with GID (0000000500000004).
+9/11/2019 3:17:51 PM : Inserting entity with GID (0000000600000004).
+9/11/2019 3:17:53 PM : The WCF service GenericDataAccess is ready.
+9/11/2019 3:17:53 PM : Endpoints:
+9/11/2019 3:17:53 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/11/2019 3:17:53 PM : Connection string: ../NetworkModelData.data
+9/11/2019 3:17:53 PM : Trace level: Info
+9/11/2019 3:17:53 PM : The Network Model Service is started.
+9/11/2019 3:17:53 PM : Press <Enter> to stop the service.
+9/11/2019 3:21:10 PM : Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/11/2019 3:21:10 PM : Getting related values for resource with ID = 0x0000000200000004 failed. Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/11/2019 3:21:33 PM : The Network Model Service is closed.
+9/11/2019 3:37:29 PM : Starting Network Model Serivice...
+9/11/2019 3:37:29 PM : Inserting entity with GID (0000000100000005).
+9/11/2019 3:37:29 PM : Inserting entity with GID (0000000100000006).
+9/11/2019 3:37:29 PM : Inserting entity with GID (0000000200000004).
+9/11/2019 3:37:29 PM : Inserting entity with GID (0000000300000004).
+9/11/2019 3:37:29 PM : Inserting entity with GID (0000000400000004).
+9/11/2019 3:37:29 PM : Inserting entity with GID (0000000500000004).
+9/11/2019 3:37:29 PM : Inserting entity with GID (0000000600000004).
+9/11/2019 3:37:29 PM : The WCF service GenericDataAccess is ready.
+9/11/2019 3:37:29 PM : Endpoints:
+9/11/2019 3:37:29 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/11/2019 3:37:29 PM : Connection string: ../NetworkModelData.data
+9/11/2019 3:37:29 PM : Trace level: Info
+9/11/2019 3:37:29 PM : The Network Model Service is started.
+9/11/2019 3:37:29 PM : Press <Enter> to stop the service.
+9/11/2019 3:42:50 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 3:42:50 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 3:42:50 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 3:42:50 PM : IteratorNext failed. Iterator ID = 12. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/11/2019 3:44:33 PM : Starting Network Model Serivice...
+9/11/2019 3:44:34 PM : Inserting entity with GID (0000000100000005).
+9/11/2019 3:44:34 PM : Inserting entity with GID (0000000100000006).
+9/11/2019 3:44:34 PM : Inserting entity with GID (0000000200000004).
+9/11/2019 3:44:34 PM : Inserting entity with GID (0000000300000004).
+9/11/2019 3:44:34 PM : Inserting entity with GID (0000000400000004).
+9/11/2019 3:44:34 PM : Inserting entity with GID (0000000500000004).
+9/11/2019 3:44:34 PM : Inserting entity with GID (0000000600000004).
+9/11/2019 3:44:34 PM : The WCF service GenericDataAccess is ready.
+9/11/2019 3:44:34 PM : Endpoints:
+9/11/2019 3:44:34 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/11/2019 3:44:34 PM : Connection string: ../NetworkModelData.data
+9/11/2019 3:44:34 PM : Trace level: Info
+9/11/2019 3:44:34 PM : The Network Model Service is started.
+9/11/2019 3:44:34 PM : Press <Enter> to stop the service.
+9/11/2019 3:48:09 PM : Starting Network Model Serivice...
+9/11/2019 3:48:09 PM : Inserting entity with GID (0000000100000005).
+9/11/2019 3:48:09 PM : Inserting entity with GID (0000000100000006).
+9/11/2019 3:48:09 PM : Inserting entity with GID (0000000200000004).
+9/11/2019 3:48:09 PM : Inserting entity with GID (0000000300000004).
+9/11/2019 3:48:09 PM : Inserting entity with GID (0000000400000004).
+9/11/2019 3:48:09 PM : Inserting entity with GID (0000000500000004).
+9/11/2019 3:48:09 PM : Inserting entity with GID (0000000600000004).
+9/11/2019 3:48:10 PM : The WCF service GenericDataAccess is ready.
+9/11/2019 3:48:10 PM : Endpoints:
+9/11/2019 3:48:10 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/11/2019 3:48:10 PM : Connection string: ../NetworkModelData.data
+9/11/2019 3:48:10 PM : Trace level: Info
+9/11/2019 3:48:10 PM : The Network Model Service is started.
+9/11/2019 3:48:10 PM : Press <Enter> to stop the service.
+9/11/2019 3:58:31 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 3:58:31 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 3:58:31 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 3:58:31 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/11/2019 4:14:35 PM : Starting Network Model Serivice...
+9/11/2019 4:14:35 PM : Inserting entity with GID (0000000100000005).
+9/11/2019 4:14:35 PM : Inserting entity with GID (0000000100000006).
+9/11/2019 4:14:35 PM : Inserting entity with GID (0000000200000004).
+9/11/2019 4:14:35 PM : Inserting entity with GID (0000000300000004).
+9/11/2019 4:14:35 PM : Inserting entity with GID (0000000400000004).
+9/11/2019 4:14:35 PM : Inserting entity with GID (0000000500000004).
+9/11/2019 4:14:35 PM : Inserting entity with GID (0000000600000004).
+9/11/2019 4:14:36 PM : The WCF service GenericDataAccess is ready.
+9/11/2019 4:14:36 PM : Endpoints:
+9/11/2019 4:14:36 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/11/2019 4:14:36 PM : Connection string: ../NetworkModelData.data
+9/11/2019 4:14:36 PM : Trace level: Info
+9/11/2019 4:14:36 PM : The Network Model Service is started.
+9/11/2019 4:14:36 PM : Press <Enter> to stop the service.
+9/11/2019 4:20:29 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 4:20:29 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 4:20:29 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 4:20:29 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/11/2019 4:24:44 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 4:24:44 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 4:24:44 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/11/2019 4:24:44 PM : IteratorNext failed. Iterator ID = 19. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 4:40:37 PM : Starting Network Model Serivice...
+9/18/2019 4:40:38 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 4:40:38 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 4:40:38 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 4:40:38 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 4:40:38 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 4:40:38 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 4:40:38 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 4:40:40 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 4:40:40 PM : Endpoints:
+9/18/2019 4:40:40 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 4:40:40 PM : Connection string: ../NetworkModelData.data
+9/18/2019 4:40:40 PM : Trace level: Info
+9/18/2019 4:40:40 PM : The Network Model Service is started.
+9/18/2019 4:40:40 PM : Press <Enter> to stop the service.
+9/18/2019 4:47:55 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 4:47:55 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 4:47:55 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 4:47:55 PM : IteratorNext failed. Iterator ID = 8. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 4:50:13 PM : Starting Network Model Serivice...
+9/18/2019 4:50:13 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 4:50:13 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 4:50:13 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 4:50:13 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 4:50:13 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 4:50:13 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 4:50:13 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 4:50:13 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 4:50:13 PM : Endpoints:
+9/18/2019 4:50:13 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 4:50:13 PM : Connection string: ../NetworkModelData.data
+9/18/2019 4:50:13 PM : Trace level: Info
+9/18/2019 4:50:13 PM : The Network Model Service is started.
+9/18/2019 4:50:13 PM : Press <Enter> to stop the service.
+9/18/2019 4:52:47 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 4:52:47 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 4:52:47 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 4:52:47 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 4:53:15 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 4:53:15 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 4:53:15 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 4:53:15 PM : IteratorNext failed. Iterator ID = 15. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/18/2019 5:01:02 PM : Starting Network Model Serivice...
+9/18/2019 5:01:02 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 5:01:02 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 5:01:02 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 5:01:02 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 5:01:02 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 5:01:02 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 5:01:02 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 5:01:03 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 5:01:03 PM : Endpoints:
+9/18/2019 5:01:03 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 5:01:03 PM : Connection string: ../NetworkModelData.data
+9/18/2019 5:01:03 PM : Trace level: Info
+9/18/2019 5:01:03 PM : The Network Model Service is started.
+9/18/2019 5:01:03 PM : Press <Enter> to stop the service.
+9/18/2019 5:01:37 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:01:37 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:01:37 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:01:37 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 5:01:41 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 5:01:41 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 5:01:41 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 5:01:41 PM : IteratorNext failed. Iterator ID = 15. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/18/2019 5:03:49 PM : Starting Network Model Serivice...
+9/18/2019 5:03:49 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 5:03:49 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 5:03:49 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 5:03:49 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 5:03:49 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 5:03:49 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 5:03:49 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 5:03:49 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 5:03:49 PM : Endpoints:
+9/18/2019 5:03:49 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 5:03:49 PM : Connection string: ../NetworkModelData.data
+9/18/2019 5:03:49 PM : Trace level: Info
+9/18/2019 5:03:49 PM : The Network Model Service is started.
+9/18/2019 5:03:49 PM : Press <Enter> to stop the service.
+9/18/2019 5:19:07 PM : Starting Network Model Serivice...
+9/18/2019 5:19:07 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 5:19:07 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 5:19:07 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 5:19:07 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 5:19:07 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 5:19:07 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 5:19:07 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 5:19:08 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 5:19:08 PM : Endpoints:
+9/18/2019 5:19:08 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 5:19:08 PM : Connection string: ../NetworkModelData.data
+9/18/2019 5:19:08 PM : Trace level: Info
+9/18/2019 5:19:08 PM : The Network Model Service is started.
+9/18/2019 5:19:08 PM : Press <Enter> to stop the service.
+9/18/2019 5:28:23 PM : Starting Network Model Serivice...
+9/18/2019 5:28:23 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 5:28:23 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 5:28:23 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 5:28:23 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 5:28:23 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 5:28:23 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 5:28:23 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 5:28:23 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 5:28:23 PM : Endpoints:
+9/18/2019 5:28:24 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 5:28:24 PM : Connection string: ../NetworkModelData.data
+9/18/2019 5:28:24 PM : Trace level: Info
+9/18/2019 5:28:24 PM : The Network Model Service is started.
+9/18/2019 5:28:24 PM : Press <Enter> to stop the service.
+9/18/2019 5:31:50 PM : Starting Network Model Serivice...
+9/18/2019 5:31:51 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 5:31:51 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 5:31:51 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 5:31:51 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 5:31:51 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 5:31:51 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 5:31:51 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 5:31:51 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 5:31:51 PM : Endpoints:
+9/18/2019 5:31:51 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 5:31:51 PM : Connection string: ../NetworkModelData.data
+9/18/2019 5:31:51 PM : Trace level: Info
+9/18/2019 5:31:51 PM : The Network Model Service is started.
+9/18/2019 5:31:51 PM : Press <Enter> to stop the service.
+9/18/2019 5:45:39 PM : Starting Network Model Serivice...
+9/18/2019 5:45:40 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 5:45:40 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 5:45:40 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 5:45:40 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 5:45:40 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 5:45:40 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 5:45:40 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 5:45:40 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 5:45:40 PM : Endpoints:
+9/18/2019 5:45:40 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 5:45:40 PM : Connection string: ../NetworkModelData.data
+9/18/2019 5:45:40 PM : Trace level: Info
+9/18/2019 5:45:40 PM : The Network Model Service is started.
+9/18/2019 5:45:40 PM : Press <Enter> to stop the service.
+9/18/2019 5:57:27 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:27 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:27 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:27 PM : IteratorNext failed. Iterator ID = 22. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 5:57:29 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:29 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:29 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:29 PM : IteratorNext failed. Iterator ID = 23. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 5:57:31 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:31 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:31 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 5:57:31 PM : IteratorNext failed. Iterator ID = 24. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:00:49 PM : Starting Network Model Serivice...
+9/18/2019 6:00:49 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:00:49 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:00:49 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:00:49 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:00:49 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:00:49 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:00:49 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:00:50 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:00:50 PM : Endpoints:
+9/18/2019 6:00:50 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:00:50 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:00:50 PM : Trace level: Info
+9/18/2019 6:00:50 PM : The Network Model Service is started.
+9/18/2019 6:00:50 PM : Press <Enter> to stop the service.
+9/18/2019 6:01:57 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:01:58 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:01:58 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:01:58 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:02:13 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:02:13 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:02:13 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:02:13 PM : IteratorNext failed. Iterator ID = 15. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:07:07 PM : Starting Network Model Serivice...
+9/18/2019 6:07:07 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:07:07 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:07:07 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:07:07 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:07:07 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:07:07 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:07:07 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:07:08 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:07:08 PM : Endpoints:
+9/18/2019 6:07:08 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:07:08 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:07:08 PM : Trace level: Info
+9/18/2019 6:07:08 PM : The Network Model Service is started.
+9/18/2019 6:07:08 PM : Press <Enter> to stop the service.
+9/18/2019 6:15:50 PM : Starting Network Model Serivice...
+9/18/2019 6:15:50 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:15:50 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:15:50 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:15:50 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:15:50 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:15:50 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:15:50 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:15:51 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:15:51 PM : Endpoints:
+9/18/2019 6:15:51 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:15:51 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:15:51 PM : Trace level: Info
+9/18/2019 6:15:51 PM : The Network Model Service is started.
+9/18/2019 6:15:51 PM : Press <Enter> to stop the service.
+9/18/2019 6:17:26 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:17:26 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:17:26 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:17:26 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:17:32 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:17:32 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:17:32 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:17:32 PM : IteratorNext failed. Iterator ID = 15. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:21:05 PM : Starting Network Model Serivice...
+9/18/2019 6:21:05 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:21:05 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:21:05 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:21:05 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:21:05 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:21:05 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:21:05 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:21:05 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:21:05 PM : Endpoints:
+9/18/2019 6:21:05 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:21:05 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:21:05 PM : Trace level: Info
+9/18/2019 6:21:05 PM : The Network Model Service is started.
+9/18/2019 6:21:05 PM : Press <Enter> to stop the service.
+9/18/2019 6:30:29 PM : Starting Network Model Serivice...
+9/18/2019 6:30:29 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:30:29 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:30:29 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:30:29 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:30:29 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:30:29 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:30:29 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:30:30 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:30:30 PM : Endpoints:
+9/18/2019 6:30:30 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:30:30 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:30:30 PM : Trace level: Info
+9/18/2019 6:30:30 PM : The Network Model Service is started.
+9/18/2019 6:30:30 PM : Press <Enter> to stop the service.
+9/18/2019 6:32:14 PM : Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:32:14 PM : Getting related values for resource with ID = 0x0000000200000004 failed. Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:33:08 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:33:08 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:33:08 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:33:08 PM : IteratorNext failed. Iterator ID = 22. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:33:08 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:33:08 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:33:08 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:33:08 PM : IteratorNext failed. Iterator ID = 23. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:33:48 PM : Starting Network Model Serivice...
+9/18/2019 6:33:49 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:33:49 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:33:49 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:33:49 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:33:49 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:33:49 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:33:49 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:33:49 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:33:49 PM : Endpoints:
+9/18/2019 6:33:49 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:33:49 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:33:49 PM : Trace level: Info
+9/18/2019 6:33:49 PM : The Network Model Service is started.
+9/18/2019 6:33:49 PM : Press <Enter> to stop the service.
+9/18/2019 6:38:41 PM : Starting Network Model Serivice...
+9/18/2019 6:38:41 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:38:41 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:38:41 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:38:41 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:38:41 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:38:41 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:38:41 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:38:41 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:38:41 PM : Endpoints:
+9/18/2019 6:38:41 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:38:41 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:38:41 PM : Trace level: Info
+9/18/2019 6:38:41 PM : The Network Model Service is started.
+9/18/2019 6:38:41 PM : Press <Enter> to stop the service.
+9/18/2019 6:41:24 PM : Starting Network Model Serivice...
+9/18/2019 6:41:24 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:41:25 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:41:25 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:41:25 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:41:25 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:41:25 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:41:25 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:41:25 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:41:25 PM : Endpoints:
+9/18/2019 6:41:25 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:41:25 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:41:25 PM : Trace level: Info
+9/18/2019 6:41:25 PM : The Network Model Service is started.
+9/18/2019 6:41:25 PM : Press <Enter> to stop the service.
+9/18/2019 6:42:21 PM : Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:42:21 PM : Getting related values for resource with ID = 0x0000000200000004 failed. Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:43:05 PM : Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:43:05 PM : Getting related values for resource with ID = 0x0000000200000004 failed. Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:43:30 PM : Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:43:30 PM : Getting related values for resource with ID = 0x0000000200000004 failed. Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:44:27 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:44:27 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:44:27 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:44:27 PM : IteratorNext failed. Iterator ID = 22. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:44:27 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:44:27 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:44:27 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:44:27 PM : IteratorNext failed. Iterator ID = 23. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:44:48 PM : Failed to get related values for source GID = 0x0000000400000004. Entity with GID = 0x0000000400000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:44:48 PM : Getting related values for resource with ID = 0x0000000400000004 failed. Failed to get related values for source GID = 0x0000000400000004. Entity with GID = 0x0000000400000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:45:54 PM : Starting Network Model Serivice...
+9/18/2019 6:45:54 PM : Inserting entity with GID (0000000100000005).
+9/18/2019 6:45:54 PM : Inserting entity with GID (0000000100000006).
+9/18/2019 6:45:54 PM : Inserting entity with GID (0000000200000004).
+9/18/2019 6:45:54 PM : Inserting entity with GID (0000000300000004).
+9/18/2019 6:45:54 PM : Inserting entity with GID (0000000400000004).
+9/18/2019 6:45:54 PM : Inserting entity with GID (0000000500000004).
+9/18/2019 6:45:54 PM : Inserting entity with GID (0000000600000004).
+9/18/2019 6:45:54 PM : The WCF service GenericDataAccess is ready.
+9/18/2019 6:45:54 PM : Endpoints:
+9/18/2019 6:45:54 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/18/2019 6:45:54 PM : Connection string: ../NetworkModelData.data
+9/18/2019 6:45:54 PM : Trace level: Info
+9/18/2019 6:45:54 PM : The Network Model Service is started.
+9/18/2019 6:45:54 PM : Press <Enter> to stop the service.
+9/18/2019 6:46:54 PM : Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:46:54 PM : Getting related values for resource with ID = 0x0000000200000004 failed. Failed to get related values for source GID = 0x0000000200000004. Entity with GID = 0x0000000200000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:48:06 PM : Failed to get related values for source GID = 0x0000000300000004. Entity with GID = 0x0000000300000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:48:06 PM : Getting related values for resource with ID = 0x0000000300000004 failed. Failed to get related values for source GID = 0x0000000300000004. Entity with GID = 0x0000000300000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:48:49 PM : Failed to get related values for source GID = 0x0000000300000004. Entity with GID = 0x0000000300000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:48:49 PM : Getting related values for resource with ID = 0x0000000300000004 failed. Failed to get related values for source GID = 0x0000000300000004. Entity with GID = 0x0000000300000004 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/18/2019 6:49:58 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:49:58 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:49:58 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004).
+9/18/2019 6:49:58 PM : IteratorNext failed. Iterator ID = 11. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000004). 
+9/18/2019 6:49:58 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:49:59 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:49:59 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004).
+9/18/2019 6:49:59 PM : IteratorNext failed. Iterator ID = 12. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000004. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000004). 
+9/19/2019 5:26:06 PM : Starting Network Model Serivice...
+9/19/2019 5:26:07 PM : Inserting entity with GID (0000000100000005).
+9/19/2019 5:26:07 PM : Inserting entity with GID (0000000100000006).
+9/19/2019 5:26:07 PM : Inserting entity with GID (0000000200000004).
+9/19/2019 5:26:07 PM : Inserting entity with GID (0000000300000004).
+9/19/2019 5:26:07 PM : Inserting entity with GID (0000000400000004).
+9/19/2019 5:26:07 PM : Inserting entity with GID (0000000500000004).
+9/19/2019 5:26:07 PM : Inserting entity with GID (0000000600000004).
+9/19/2019 5:26:08 PM : The WCF service GenericDataAccess is ready.
+9/19/2019 5:26:08 PM : Endpoints:
+9/19/2019 5:26:08 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 5:26:08 PM : Connection string: ../NetworkModelData.data
+9/19/2019 5:26:08 PM : Trace level: Info
+9/19/2019 5:26:08 PM : The Network Model Service is started.
+9/19/2019 5:26:08 PM : Press <Enter> to stop the service.
+9/19/2019 5:29:49 PM : The Network Model Service is closed.
+9/19/2019 5:43:31 PM : Starting Network Model Serivice...
+9/19/2019 5:43:31 PM : Inserting entity with GID (0000000100000005).
+9/19/2019 5:43:31 PM : Inserting entity with GID (0000000100000006).
+9/19/2019 5:43:31 PM : Inserting entity with GID (0000000200000004).
+9/19/2019 5:43:31 PM : Inserting entity with GID (0000000300000004).
+9/19/2019 5:43:31 PM : Inserting entity with GID (0000000400000004).
+9/19/2019 5:43:31 PM : Inserting entity with GID (0000000500000004).
+9/19/2019 5:43:31 PM : Inserting entity with GID (0000000600000004).
+9/19/2019 5:43:31 PM : The WCF service GenericDataAccess is ready.
+9/19/2019 5:43:31 PM : Endpoints:
+9/19/2019 5:43:31 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 5:43:31 PM : Connection string: ../NetworkModelData.data
+9/19/2019 5:43:31 PM : Trace level: Info
+9/19/2019 5:43:31 PM : The Network Model Service is started.
+9/19/2019 5:43:31 PM : Press <Enter> to stop the service.
+9/19/2019 5:44:09 PM : Applying  delta to network model.
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000100000003).
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000100000004).
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000200000002).
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000300000002).
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000400000002).
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000500000002).
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000600000002).
+9/19/2019 5:44:09 PM : Inserting entity with GID (0000000600000003).
+9/19/2019 5:44:09 PM : Applying delta to network model successfully finished.
+9/19/2019 5:45:52 PM : The Network Model Service is closed.
+9/19/2019 5:46:46 PM : Starting Network Model Serivice...
+9/19/2019 5:46:47 PM : The WCF service GenericDataAccess is ready.
+9/19/2019 5:46:47 PM : Endpoints:
+9/19/2019 5:46:47 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 5:46:47 PM : Connection string: ../NetworkModelData.data
+9/19/2019 5:46:47 PM : Trace level: Info
+9/19/2019 5:46:47 PM : The Network Model Service is started.
+9/19/2019 5:46:47 PM : Press <Enter> to stop the service.
+9/19/2019 5:47:12 PM : Applying  delta to network model.
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000100000001).
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000100000002).
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000200000001).
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000300000001).
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000400000001).
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000500000001).
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000600000001).
+9/19/2019 5:47:12 PM : Inserting entity with GID (0000000600000002).
+9/19/2019 5:47:12 PM : Applying delta to network model successfully finished.
+9/19/2019 5:48:14 PM : Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001).
+9/19/2019 5:48:14 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001).
+9/19/2019 5:48:15 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001).
+9/19/2019 5:48:15 PM : IteratorNext failed. Iterator ID = 17. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001). 
+9/19/2019 5:48:15 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001).
+9/19/2019 5:48:15 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001).
+9/19/2019 5:48:15 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001).
+9/19/2019 5:48:15 PM : IteratorNext failed. Iterator ID = 18. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001). 
+9/19/2019 5:48:42 PM : The Network Model Service is closed.
+9/19/2019 6:12:13 PM : Starting Network Model Serivice...
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000100000001).
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000100000002).
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000200000001).
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000300000001).
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000400000001).
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000500000001).
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000600000001).
+9/19/2019 6:12:13 PM : Inserting entity with GID (0000000600000002).
+9/19/2019 6:12:13 PM : The WCF service GenericDataAccess is ready.
+9/19/2019 6:12:13 PM : Endpoints:
+9/19/2019 6:12:14 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/19/2019 6:12:14 PM : Connection string: ../NetworkModelData.data
+9/19/2019 6:12:14 PM : Trace level: Info
+9/19/2019 6:12:14 PM : The Network Model Service is started.
+9/19/2019 6:12:14 PM : Press <Enter> to stop the service.
+9/19/2019 6:13:29 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/19/2019 6:13:29 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/19/2019 6:13:29 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/19/2019 6:13:29 PM : IteratorNext failed. Iterator ID = 12. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001). 
+9/19/2019 6:13:29 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/19/2019 6:13:30 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/19/2019 6:13:30 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/19/2019 6:13:30 PM : IteratorNext failed. Iterator ID = 13. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001). 
+9/19/2019 6:13:39 PM : Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001).
+9/19/2019 6:13:39 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001).
+9/19/2019 6:13:39 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001).
+9/19/2019 6:13:40 PM : IteratorNext failed. Iterator ID = 14. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = SERCOMPENSATOR_R for entity (GID = 0x0000000300000001). 
+9/19/2019 6:13:40 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001).
+9/19/2019 6:13:40 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001).
+9/19/2019 6:13:40 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001).
+9/19/2019 6:13:40 PM : IteratorNext failed. Iterator ID = 15. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000300000001). 
+9/19/2019 6:14:25 PM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/19/2019 6:14:25 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/19/2019 6:14:25 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/19/2019 6:14:25 PM : IteratorNext failed. Iterator ID = 18. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001). 
+9/19/2019 6:14:25 PM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/19/2019 6:14:25 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/19/2019 6:14:25 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/19/2019 6:14:25 PM : IteratorNext failed. Iterator ID = 19. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001). 
+9/19/2019 6:14:36 PM : The Network Model Service is closed.
+9/20/2019 8:51:20 AM : Starting Network Model Serivice...
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000100000001).
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000100000002).
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000200000001).
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000300000001).
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000400000001).
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000500000001).
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000600000001).
+9/20/2019 8:51:22 AM : Inserting entity with GID (0000000600000002).
+9/20/2019 8:51:23 AM : The WCF service GenericDataAccess is ready.
+9/20/2019 8:51:23 AM : Endpoints:
+9/20/2019 8:51:23 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/20/2019 8:51:23 AM : Connection string: ../NetworkModelData.data
+9/20/2019 8:51:23 AM : Trace level: Info
+9/20/2019 8:51:23 AM : The Network Model Service is started.
+9/20/2019 8:51:23 AM : Press <Enter> to stop the service.
+9/20/2019 8:52:48 AM : Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/20/2019 8:52:48 AM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/20/2019 8:52:48 AM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001).
+9/20/2019 8:52:48 AM : IteratorNext failed. Iterator ID = 15. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = ACLINESEG_B0CH for entity (GID = 0x0000000200000001). 
+9/20/2019 8:52:49 AM : Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/20/2019 8:52:49 AM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/20/2019 8:52:49 AM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001).
+9/20/2019 8:52:49 AM : IteratorNext failed. Iterator ID = 16. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Unknown property id = CONDUCTOR_LENGTH for entity (GID = 0x0000000200000001). 
+9/20/2019 8:53:06 AM : Starting Network Model Serivice...
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000100000001).
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000100000002).
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000200000001).
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000300000001).
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000400000001).
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000500000001).
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000600000001).
+9/20/2019 8:53:06 AM : Inserting entity with GID (0000000600000002).
+9/20/2019 8:53:06 AM : The WCF service GenericDataAccess is ready.
+9/20/2019 8:53:06 AM : Endpoints:
+9/20/2019 8:53:06 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/20/2019 8:53:06 AM : Connection string: ../NetworkModelData.data
+9/20/2019 8:53:06 AM : Trace level: Info
+9/20/2019 8:53:06 AM : The Network Model Service is started.
+9/20/2019 8:53:06 AM : Press <Enter> to stop the service.
+9/20/2019 9:04:33 AM : Applying  delta to network model.
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000100000003).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000100000004).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000200000002).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000300000002).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000400000002).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000500000002).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000600000003).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000600000004).
+9/20/2019 9:04:33 AM : Inserting entity with GID (0000000600000005).
+9/20/2019 9:04:33 AM : Applying delta to network model successfully finished.
+9/20/2019 9:05:42 AM : Failed to get related values for source GID = 0x0000000300000002. Entity with GID = 0x0000000300000002 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:05:42 AM : Getting related values for resource with ID = 0x0000000300000002 failed. Failed to get related values for source GID = 0x0000000300000002. Entity with GID = 0x0000000300000002 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:06:40 AM : Failed to get related values for source GID = 0x0000000200000002. Entity with GID = 0x0000000200000002 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:06:40 AM : Getting related values for resource with ID = 0x0000000200000002 failed. Failed to get related values for source GID = 0x0000000200000002. Entity with GID = 0x0000000200000002 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:07:43 AM : Failed to get related values for source GID = 0x0000000200000002. Entity with GID = 0x0000000200000002 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:07:43 AM : Getting related values for resource with ID = 0x0000000200000002 failed. Failed to get related values for source GID = 0x0000000200000002. Entity with GID = 0x0000000200000002 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:10:01 AM : Starting Network Model Serivice...
+9/20/2019 9:10:01 AM : The WCF service GenericDataAccess is ready.
+9/20/2019 9:10:01 AM : Endpoints:
+9/20/2019 9:10:01 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/20/2019 9:10:01 AM : Connection string: ../NetworkModelData.data
+9/20/2019 9:10:01 AM : Trace level: Info
+9/20/2019 9:10:01 AM : The Network Model Service is started.
+9/20/2019 9:10:01 AM : Press <Enter> to stop the service.
+9/20/2019 9:10:16 AM : Applying  delta to network model.
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000100000001).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000100000002).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000200000001).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000300000001).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000400000001).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000500000001).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000600000001).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000600000002).
+9/20/2019 9:10:16 AM : Inserting entity with GID (0000000600000003).
+9/20/2019 9:10:16 AM : Applying delta to network model successfully finished.
+9/20/2019 9:10:27 AM : Starting Network Model Serivice...
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000100000001).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000100000002).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000200000001).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000300000001).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000400000001).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000500000001).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000600000001).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000600000002).
+9/20/2019 9:10:27 AM : Inserting entity with GID (0000000600000003).
+9/20/2019 9:10:27 AM : The WCF service GenericDataAccess is ready.
+9/20/2019 9:10:27 AM : Endpoints:
+9/20/2019 9:10:27 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/20/2019 9:10:27 AM : Connection string: ../NetworkModelData.data
+9/20/2019 9:10:27 AM : Trace level: Info
+9/20/2019 9:10:27 AM : The Network Model Service is started.
+9/20/2019 9:10:27 AM : Press <Enter> to stop the service.
+9/20/2019 9:10:56 AM : Failed to get related values for source GID = 0x0000000200000001. Entity with GID = 0x0000000200000001 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:10:56 AM : Getting related values for resource with ID = 0x0000000200000001 failed. Failed to get related values for source GID = 0x0000000200000001. Entity with GID = 0x0000000200000001 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:13:44 AM : Failed to get related values for source GID = 0x0000000200000001. Entity with GID = 0x0000000200000001 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:14:10 AM : Getting related values for resource with ID = 0x0000000200000001 failed. Failed to get related values for source GID = 0x0000000200000001. Entity with GID = 0x0000000200000001 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:20:46 AM : Failed to get related values for source GID = 0x0000000200000001. Entity with GID = 0x0000000200000001 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 9:20:46 AM : Getting related values for resource with ID = 0x0000000200000001 failed. Failed to get related values for source GID = 0x0000000200000001. Entity with GID = 0x0000000200000001 does not contain prperty with Id = CONEQUIPMENT_TERMINALS..
+9/20/2019 10:09:01 AM : Starting Network Model Serivice...
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000100000001).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000100000002).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000200000001).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000300000001).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000400000001).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000500000001).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000600000001).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000600000002).
+9/20/2019 10:09:02 AM : Inserting entity with GID (0000000600000003).
+9/20/2019 10:09:02 AM : The WCF service GenericDataAccess is ready.
+9/20/2019 10:09:02 AM : Endpoints:
+9/20/2019 10:09:02 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+9/20/2019 10:09:02 AM : Connection string: ../NetworkModelData.data
+9/20/2019 10:09:02 AM : Trace level: Info
+9/20/2019 10:09:02 AM : The Network Model Service is started.
+9/20/2019 10:09:02 AM : Press <Enter> to stop the service.
