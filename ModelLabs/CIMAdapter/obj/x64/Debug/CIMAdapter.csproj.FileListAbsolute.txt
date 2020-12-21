@@ -1,0 +1,2 @@
+D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\CIMAdapter\obj\x64\Debug\CIMAdapter.csprojAssemblyReference.cache
+D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\CIMAdapter\obj\x64\Debug\CIMAdapter.csproj.CoreCompileInputs.cache

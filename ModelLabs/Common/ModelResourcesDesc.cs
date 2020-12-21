@@ -865,21 +865,21 @@ namespace FTN.Common
 		# region Initialization of metadata
 
 		private void InitializeTypeIdsInInsertOrder()
-		{			
-			typeIdsInInsertOrder.Add(ModelCode.CONNODE);
-			typeIdsInInsertOrder.Add(ModelCode.SERCOMPENSATOR);
-			typeIdsInInsertOrder.Add(ModelCode.DCLINESEG);
-			typeIdsInInsertOrder.Add(ModelCode.ACLINESEG);
-			typeIdsInInsertOrder.Add(ModelCode.PLENSIM);
-            typeIdsInInsertOrder.Add(ModelCode.TERMINAL);
-        }
+		{
+			typeIdsInInsertOrder.Add(ModelCode.GEOGRAPHICALREGION);
+			typeIdsInInsertOrder.Add(ModelCode.ANALOG);
+			typeIdsInInsertOrder.Add(ModelCode.DISCRETE);
+			typeIdsInInsertOrder.Add(ModelCode.SUBSTATION);
+			typeIdsInInsertOrder.Add(ModelCode.ENERGYCONSUMER);
+			typeIdsInInsertOrder.Add(ModelCode.GENERATOR);
+		}
 
 		private void InitializeNotSettablePropertyIds()
-		{			
+		{
 			notSettablePropertyIds.Add(ModelCode.IDOBJ_GID);
-			notSettablePropertyIds.Add(ModelCode.TERMINAL_CONEQ);
-			notSettablePropertyIds.Add(ModelCode.TERMINAL_CONNODE);
-			
+			notSettablePropertyIds.Add(ModelCode.PWRSYSRS_MEASUREMENTS);
+			notSettablePropertyIds.Add(ModelCode.EQUIPMENTCONT_EQUIPMENTS);
+
 		}
 	
 		# endregion Initialization of metadata

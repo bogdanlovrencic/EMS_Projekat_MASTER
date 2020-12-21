@@ -19,3 +19,4 @@ D:\Vezbe\10\ModelLabs\bin64\FTN_NetworkModelService.pdb
 D:\Vezbe\10\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\obj\x64\Debug\ResolveAssemblyReference.cache
 D:\Vezbe\10\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\obj\x64\Debug\FTN_NetworkModelService.exe
 D:\Vezbe\10\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\obj\x64\Debug\FTN_NetworkModelService.pdb
+D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\obj\x64\Debug\NetworkModelServiceSelfHost.csproj.CoreCompileInputs.cache

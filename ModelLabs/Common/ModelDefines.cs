@@ -9,12 +9,12 @@ namespace FTN.Common
 	{		
 		MASK_TYPE							= unchecked((short)0xFFFF),
 
-        CONNECTIVITYNODE                    = 0x0001,
-        SERIESCOMPENSATOR                   = 0x0002,
-        DCLINESEGMENT                       = 0x0003,
-        ACLINESEGMENT                       = 0x0004,
-        PERLENGTHSEQUENCEIMPEDANCE          = 0x0005,
-        TERMINAL                            = 0x0006,
+        GEOGRAPHICALREGION                  = 0x0001,
+        ANALOG                              = 0x0002,
+        DISCRETE                            = 0x0003,
+        SUBSTATION                          = 0x0004,
+        ENERGYCONSUMER                      = 0x0005,
+        GENERATOR                           = 0x0006,
     }
 
     [Flags]
@@ -27,52 +27,50 @@ namespace FTN.Common
 		IDOBJ_NAME							= 0x1000000000000407,	
 
 		PWRSYSRS                            = 0x1100000000000000,
+        PWRSYSRS_MEASUREMENTS               = 0x1100000000000119,
 
-        PLENIM                              = 0x1200000000000000,
+        MEASUREMENT                         = 0x1200000000000000,
+        MEASUREMENT_DIRECTIONMETHOD         = 0x120000000000010a,
+        MEASUREMENT_MEASUREMENTTYPE         = 0x120000000000020a,
+        MEASUREMENT_SAVEADRESS              = 0x1200000000000307,
 
-        PLENSIM                             = 0x1210000000050000,
-        PLENSIM_B0CH                        = 0x1210000000050105,
-        PLENSIM_BCH                         = 0x1210000000050205,
-        PLENSIM_G0CH                        = 0x1210000000050305,
-        PLENSIM_GCH                         = 0x1210000000050405,
-        PLENSIM_R                           = 0x1210000000050505,
-        PLENSIM_R0                          = 0x1210000000050605,
-        PLENSIM_X                           = 0x1210000000050705,
-        PLENSIM_X0                          = 0x1210000000050805,
+        GEOGRAPHICALREGION                  = 0x1300000000010000,
 
-        CONNODE                             = 0x1300000000010000,
-        CONNODE_DESCRIPTION                 = 0x1300000000010107,
-        CONNODE_TERMINALS                   = 0x1300000000010219,
+        CONNECTIVITYNODECONT                = 0x1110000000000000,
+        
+        EQUIPMENT                           = 0x1120000000000000,
+        EQUIPMENT_EQUIPMENTCONT             = 0x1120000000000109,
 
-        TERMINAL                            = 0x1400000000060000,
-        TERMINAL_CONNODE                    = 0x1400000000060109,
-        TERMINAL_CONEQ                      = 0x1400000000060209,
+        EQUIPMENTCONT                       = 0x1111000000000000,
+        EQUIPMENTCONT_EQUIPMENTS            = 0x1111000000000119,
 
-        EQUIPMENT                           = 0x1110000000000000,
+        SUBSTATION                          = 0x1111100000040000,
 
-        CONEQUIPMENT                        = 0x1111000000000000,
-        CONEQUIPMENT_TERMINALS              = 0x1111000000000119,
+        CONDUCTEQUIP                        = 0x1121000000000000,
 
-        SERCOMPENSATOR                      = 0x1111100000020000,
-        SERCOMPENSATOR_R                    = 0x1111100000020105,
-        SERCOMPENSATOR_R0                   = 0x1111100000020205,
-        SERCOMPENSATOR_X                    = 0x1111100000020305,
-        SERCOMPENSATOR_X0                   = 0x1111100000020405,
+        ENERGYCONSUMER                      = 0x1121100000050000,
+        ENERGYCONSUMER_PFIXED               = 0x1121100000050105,
+        ENERGYCONSUMER_QFIXED               = 0x1121100000050205,
 
-        CONDUCTOR                           = 0x1111200000000000,
-        CONDUCTOR_LENGTH                    = 0x1111200000000105,
+        REGULATINGCONDEQUIP                 = 0x1121200000000000,
 
-        DCLINESEG                           = 0x1111210000030000,
+        ROTATINGMACHINE                     = 0x1121210000000000,
+        ROTATINGMACHINE_RATEDS              = 0x1121210000000105,
 
-        ACLINESEG                           = 0x1111220000040000,
-        ACLINESEG_B0CH                      = 0x1111220000040105,
-        ACLINESEG_BCH                       = 0x1111220000040205,
-        ACLINESEG_G0CH                      = 0x1111220000040305,
-        ACLINESEG_GCH                       = 0x1111220000040405,
-        ACLINESEG_R                         = 0x1111220000040505,
-        ACLINESEG_R0                        = 0x1111220000040605,
-        ACLINESEG_X                         = 0x1111220000040705,
-        ACLINESEG_X0                        = 0x1111220000040805,
+        GENERATOR                           = 0x1121211000060000,
+        GENERATOR_GENERATORTYPE             = 0x112121100006010a,
+        GENERATOR_MAXQ                      = 0x1121211000060205,
+        GENERATOR_MINQ                      = 0x1121211000060305,
+
+        ANALOG                              = 0x1210000000020000,
+        ANALOG_MAXVALUE                     = 0x1210000000020105,
+        ANALOG_MINVALUE                     = 0x1210000000020205,
+        ANALOG_NORMALVALUE                  = 0x1210000000020305,
+
+        DISCRETE                            = 0x1220000000030000,
+        DISCRETE_MAXVALUE                   = 0x1220000000030104,
+        DSICRETE_MINVALUE                   = 0x1220000000030204,
+        DISCRETE_NORMALVALUE                = 0x1220000000030304,
     }
 
     [Flags]
