@@ -85,18 +85,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\ConductingEquipment.cs" />
-    <Compile Include="Core\Conductor.cs" />
+    <Compile Include="Core\ConnectivityNodeContainer.cs" />
     <Compile Include="Core\Equipment.cs" />
+    <Compile Include="Core\EquipmentContainer.cs" />
+    <Compile Include="Core\GeographicalRegion.cs" />
     <Compile Include="Core\IdentifiedObject.cs" />
-    <Compile Include="Core\PerLengthImpedance.cs" />
     <Compile Include="Core\PowerSystemResource.cs" />
+    <Compile Include="Core\Substation.cs" />
+    <Compile Include="Meas\Analog.cs" />
+    <Compile Include="Meas\Discrete.cs" />
+    <Compile Include="Meas\Measurement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Wires\ACLineSegment.cs" />
-    <Compile Include="Wires\ConnectivityNode.cs" />
-    <Compile Include="Wires\DCLineSegment.cs" />
-    <Compile Include="Wires\PerLengthSequenceImpedance.cs" />
-    <Compile Include="Wires\SeriesCompensator.cs" />
-    <Compile Include="Wires\Terminal.cs" />
+    <Compile Include="Wires\EnergyConsumer.cs" />
+    <Compile Include="Wires\Generator.cs" />
+    <Compile Include="Wires\RegulatingCondEq.cs" />
+    <Compile Include="Wires\RotatingMachine.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Common\Common.csproj">

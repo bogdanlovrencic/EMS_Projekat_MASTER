@@ -1,7 +1,0 @@
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csprojAssemblyReference.cache
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csproj.CopyComplete
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb

@@ -1,2 +1,0 @@
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkModelService.csprojAssemblyReference.cache
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkModelService.csproj.CoreCompileInputs.cache

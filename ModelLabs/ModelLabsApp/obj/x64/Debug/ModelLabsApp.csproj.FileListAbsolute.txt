@@ -1,6 +1,1 @@
 D:\Vezbe\11\ModelLabs\bin64\ModelLabsApp.exe.config
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.csprojAssemblyReference.cache
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.ModelLabsAppForm.resources
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.Properties.Resources.resources
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.csproj.GenerateResource.cache
-D:\GitHub\EMS_PROJEKAT_MASTER\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
