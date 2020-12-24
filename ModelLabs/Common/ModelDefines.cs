@@ -33,6 +33,7 @@ namespace FTN.Common
         MEASUREMENT_DIRECTIONMETHOD         = 0x120000000000010a,
         MEASUREMENT_MEASUREMENTTYPE         = 0x120000000000020a,
         MEASUREMENT_SAVEADRESS              = 0x1200000000000307,
+        MEASUREMENT_POWERSYSRES             = 0x1200000000000409,
 
         GEOGRAPHICALREGION                  = 0x1300000000010000,
 
@@ -69,7 +70,7 @@ namespace FTN.Common
 
         DISCRETE                            = 0x1220000000030000,
         DISCRETE_MAXVALUE                   = 0x1220000000030104,
-        DSICRETE_MINVALUE                   = 0x1220000000030204,
+        DISCRETE_MINVALUE                   = 0x1220000000030204,
         DISCRETE_NORMALVALUE                = 0x1220000000030304,
     }
 

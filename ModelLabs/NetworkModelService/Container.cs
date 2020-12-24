@@ -11,7 +11,7 @@ using FTN.Common;
 using FTN.Services.NetworkModelService.DataModel.Core;
 using FTN.Services.NetworkModelService.DataModel.Wires;
 using FTN.Services.NetworkModelService.DataModel;
-
+using FTN.Services.NetworkModelService.DataModel.Meas;
 
 namespace FTN.Services.NetworkModelService
 {		
@@ -122,25 +122,26 @@ namespace FTN.Services.NetworkModelService
 			IdentifiedObject io = null;			
 			switch ((DMSType)type)
 			{
-				case DMSType.ACLINESEGMENT:
-					io = new ACLineSegment(globalId);
+				case DMSType.GEOGRAPHICALREGION:
+					io = new GeographicalRegion(globalId);
+					break;
+				case DMSType.ANALOG:
+					io = new Analog(globalId);
 					break;
 
-				case DMSType.CONNECTIVITYNODE:
-					io = new ConnectivityNode(globalId);
+				case DMSType.DISCRETE:
+					io = new Discrete(globalId);
 					break;
-				case DMSType.DCLINESEGMENT:
-					io = new DCLineSegment(globalId);
+				case DMSType.SUBSTATION:
+					io = new Substation(globalId);
 					break;
-				case DMSType.PERLENGTHSEQUENCEIMPEDANCE:
-					io = new PerLengthSequenceImpedance(globalId);
+				case DMSType.ENERGYCONSUMER:
+					io = new EnergyConsumer(globalId);
 					break;
-				case DMSType.SERIESCOMPENSATOR:
-					io = new SeriesCompensator(globalId);
+				case DMSType.GENERATOR:
+					io = new Generator(globalId);
 					break;
-                case DMSType.TERMINAL:
-                    io = new Terminal(globalId);
-                    break;
+               
 
                 default:					
 					string message = String.Format("Failed to create entity because specified type ({0}) is not supported.", type);

@@ -1,0 +1,7 @@
+D:\GitHub\EMS_Projekat_MASTER\ModelLabs\bin64\FTN.Services.NetworkModelService.dll
+D:\GitHub\EMS_Projekat_MASTER\ModelLabs\bin64\FTN.Services.NetworkModelService.pdb
+D:\GitHub\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkModelService.csprojAssemblyReference.cache
+D:\GitHub\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+D:\GitHub\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkModelService.csproj.CopyComplete
+D:\GitHub\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+D:\GitHub\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb
