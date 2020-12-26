@@ -95,10 +95,10 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter.Importer
             //// import all concrete model types (DMSType enum)
             ImportGeographicalRegion();
             ImportSubstation();
-            ImportAnalog();
-            ImportDiscrete();           
             ImportGenerator();
             ImportEnergyConsumer();
+            ImportAnalog();
+            ImportDiscrete();                      
 
             LogManager.Log("Loading elements and creating delta completed.", LogLevel.Info);
 		}

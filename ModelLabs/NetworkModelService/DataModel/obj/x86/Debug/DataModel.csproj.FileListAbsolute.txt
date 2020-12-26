@@ -45,3 +45,10 @@ D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Netw
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.CopyComplete
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.dll
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.DataModel.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.DataModel.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.CoreCompileInputs.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.CopyComplete
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.pdb

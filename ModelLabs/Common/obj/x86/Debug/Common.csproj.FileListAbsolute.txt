@@ -23,3 +23,9 @@ D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Comm
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.Common.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.Common.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
