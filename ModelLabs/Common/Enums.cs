@@ -7,6 +7,7 @@ namespace FTN.Common
     {
         activePower,
         voltage,
+        other
     }
 
     public enum GeneratorType
@@ -23,6 +24,8 @@ namespace FTN.Common
         solar,
 
         wind,
+
+        other
     }
 
     public enum Direction
@@ -33,6 +36,8 @@ namespace FTN.Common
         readWrite,
 
         write,
+
+        other
     }
 
    
