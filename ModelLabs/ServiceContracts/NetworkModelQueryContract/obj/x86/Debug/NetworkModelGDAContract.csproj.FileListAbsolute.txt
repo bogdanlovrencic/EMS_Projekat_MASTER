@@ -25,3 +25,10 @@ D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Serv
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CopyComplete
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CopyComplete
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb

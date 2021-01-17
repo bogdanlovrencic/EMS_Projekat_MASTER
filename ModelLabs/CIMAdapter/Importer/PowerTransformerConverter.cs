@@ -36,13 +36,13 @@
             {
                 PowerTransformerConverter.PopulateIdentifiedObjectProperties(cimConductingEquipment, rd);
 
-                if (cimConductingEquipment.SaveAdressHasValue)
+                if (cimConductingEquipment.SaveAddressHasValue)
                 {
-                    rd.AddProperty(new Property(ModelCode.MEASUREMENT_SAVEADRESS, cimConductingEquipment.SaveAdress));
+                    rd.AddProperty(new Property(ModelCode.MEASUREMENT_SAVEADRESS, cimConductingEquipment.SaveAddress));
                 }
-                if (cimConductingEquipment.DirectionHasValue)
+                if (cimConductingEquipment.DirectionMethodHasValue)
                 {
-                    rd.AddProperty(new Property(ModelCode.MEASUREMENT_DIRECTIONMETHOD, (short)GetDirection(cimConductingEquipment.Direction)));
+                    rd.AddProperty(new Property(ModelCode.MEASUREMENT_DIRECTIONMETHOD, (short)GetDirection(cimConductingEquipment.DirectionMethod)));
                 }
                 if (cimConductingEquipment.MeasurementTypeHasValue)
                 {

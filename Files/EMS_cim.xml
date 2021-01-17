@@ -26,8 +26,9 @@
 	</cim:Generator>
 	
 <!--EnergyConsumer -->		
-	<cim:EnergyConsumer rdf:ID="EnergyConsumer_1">
+	<cim:EnergyConsumer rdf:ID="EnergyConsumer_1">		
 		<cim:EnergyConsumer.pfixed>10</cim:EnergyConsumer.pfixed>
+		<cim:EnergyConsumer.currentPower>30</cim:EnergyConsumer.currentPower>
 		<cim:Equipment.EquipmentContainer rdf:resource="#Substation_1"/>
 		<cim:IdentifiedObject.aliasName>EnergyConsumer_1</cim:IdentifiedObject.aliasName>
 		<cim:IdentifiedObject.mRID>EnergyConsumer_1</cim:IdentifiedObject.mRID>
@@ -39,10 +40,10 @@
 		<cim:Analog.maxValue>20000</cim:Analog.maxValue>
 		<cim:Analog.minValue>0</cim:Analog.minValue>
 		<cim:Analog.normalValue>100</cim:Analog.normalValue>
-		<cim:Measurement.direction>readWrite</cim:Measurement.direction>
+		<cim:Measurement.directionMethod>readWrite</cim:Measurement.directionMethod>
 		<cim:Measurement.measurementType>activePower</cim:Measurement.measurementType>
 		<cim:Measurement.PowerSystemResource rdf:resource="#EnergyConsumer_1"/>
-		<cim:Measurement.scadaAddress>address_1</cim:Measurement.scadaAddress>
+		<cim:Measurement.saveAddress>address_1</cim:Measurement.saveAddress>
 		<cim:IdentifiedObject.aliasName>Analog_1</cim:IdentifiedObject.aliasName>
 		<cim:IdentifiedObject.mRID>Analog_1</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>Analog_1 </cim:IdentifiedObject.name>
@@ -50,13 +51,13 @@
 
 <!--Discrete -->
 	<cim:Discrete rdf:ID="Discrete_1">
-		<cim:Discrete.maxValue>1 </cim:Discrete.maxValue>
-		<cim:Discrete.minValue>0 </cim:Discrete.minValue>
-		<cim:Discrete.normalValue>1 </cim:Discrete.normalValue>
-		<cim:Measurement.direction>readWrite</cim:Measurement.direction>
+		<cim:Discrete.maxValue>1</cim:Discrete.maxValue>
+		<cim:Discrete.minValue>0</cim:Discrete.minValue>
+		<cim:Discrete.normalValue>1</cim:Discrete.normalValue>
+		<cim:Measurement.directionMethod>readWrite</cim:Measurement.directionMethod>
 		<cim:Measurement.measurementType> </cim:Measurement.measurementType>
 		<cim:Measurement.PowerSystemResource rdf:resource="#EnergyConsumer_1"/> 
-		<cim:Measurement.scadaAddress>address_1</cim:Measurement.scadaAddress>
+		<cim:Measurement.saveAddress>address_1</cim:Measurement.saveAddress>
 		<cim:IdentifiedObject.aliasName>Discrete_1</cim:IdentifiedObject.aliasName> 
 		<cim:IdentifiedObject.mRID>Discrete_1</cim:IdentifiedObject.mRID> 
 		<cim:IdentifiedObject.name>Discrete_1 </cim:IdentifiedObject.name>

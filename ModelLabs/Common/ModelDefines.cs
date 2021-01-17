@@ -10,9 +10,9 @@ namespace FTN.Common
 		MASK_TYPE							= unchecked((short)0xFFFF),
 
         GEOGRAPHICALREGION                  = 0x0001,
-        ANALOG                              = 0x0002,
+        SUBSTATION                          = 0x0002,
         DISCRETE                            = 0x0003,
-        SUBSTATION                          = 0x0004,
+        ANALOG                              = 0x0004,
         ENERGYCONSUMER                      = 0x0005,
         GENERATOR                           = 0x0006,
     }
@@ -45,13 +45,14 @@ namespace FTN.Common
         EQUIPMENTCONT                       = 0x1111000000000000,
         EQUIPMENTCONT_EQUIPMENTS            = 0x1111000000000119,
 
-        SUBSTATION                          = 0x1111100000040000,
+        SUBSTATION                          = 0x1111100000020000,
 
         CONDUCTEQUIP                        = 0x1121000000000000,
 
         ENERGYCONSUMER                      = 0x1121100000050000,
         ENERGYCONSUMER_PFIXED               = 0x1121100000050105,
-        ENERGYCONSUMER_QFIXED               = 0x1121100000050205,
+        ENERGYCONSUMER_CURRENTPOWER         = 0x1121100000050205,
+        //ENERGYCONSUMER_QFIXED               = 0x1121100000050205,
 
         REGULATINGCONDEQUIP                 = 0x1121200000000000,
 
@@ -63,15 +64,15 @@ namespace FTN.Common
         GENERATOR_MAXQ                      = 0x1121211000060205,
         GENERATOR_MINQ                      = 0x1121211000060305,
 
-        ANALOG                              = 0x1210000000020000,
-        ANALOG_MAXVALUE                     = 0x1210000000020105,
-        ANALOG_MINVALUE                     = 0x1210000000020205,
-        ANALOG_NORMALVALUE                  = 0x1210000000020305,
+        ANALOG                              = 0x1210000000040000,
+        ANALOG_MAXVALUE                     = 0x1210000000040105,
+        ANALOG_MINVALUE                     = 0x1210000000040205,
+        ANALOG_NORMALVALUE                  = 0x1210000000040305,
 
         DISCRETE                            = 0x1220000000030000,
-        DISCRETE_MAXVALUE                   = 0x1220000000030104,
-        DISCRETE_MINVALUE                   = 0x1220000000030204,
-        DISCRETE_NORMALVALUE                = 0x1220000000030304,
+        DISCRETE_MAXVALUE                   = 0x1220000000030103,
+        DISCRETE_MINVALUE                   = 0x1220000000030203,
+        DISCRETE_NORMALVALUE                = 0x1220000000030303,
     }
 
     [Flags]

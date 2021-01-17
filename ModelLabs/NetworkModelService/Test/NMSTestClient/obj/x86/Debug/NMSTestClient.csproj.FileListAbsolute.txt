@@ -48,3 +48,11 @@ D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Netw
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CopyComplete
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.exe
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\NMSTestClient.exe.config
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\NMSTestClient.exe
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\NMSTestClient.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csprojResolveAssemblyReference.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CoreCompileInputs.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CopyComplete
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.exe
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.pdb

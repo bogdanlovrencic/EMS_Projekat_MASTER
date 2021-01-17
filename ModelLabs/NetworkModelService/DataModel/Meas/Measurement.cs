@@ -11,7 +11,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Meas
     {
         private Direction directionMethod;
         private MeasurementType measurementType;
-        private string saveAdress;
+        private string saveAddress;
         private long powerSysResource = 0;
 
         
@@ -22,7 +22,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Meas
 
         public Direction DirectionMethod { get => directionMethod; set => directionMethod = value; }
         public MeasurementType MeasurementType { get => measurementType; set => measurementType = value; }
-        public string SaveAdress { get => saveAdress; set => saveAdress = value; }
+        public string SaveAdress { get => saveAddress; set => saveAddress = value; }
         public long PowerSysResource { get => powerSysResource; set => powerSysResource = value; }
 
         public override bool Equals(object obj)
@@ -30,7 +30,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Meas
             if (base.Equals(obj))
             {
                 Measurement x = (Measurement)obj;
-                return (x.directionMethod == this.directionMethod && x.measurementType == this.measurementType && x.saveAdress == this.saveAdress && x.powerSysResource == this.powerSysResource);
+                return (x.directionMethod == this.directionMethod && x.measurementType == this.measurementType && x.saveAddress == this.saveAddress && x.powerSysResource == this.powerSysResource);
             }
             else
             {
@@ -71,7 +71,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Meas
                     prop.SetValue((short)measurementType);
                     break;
                 case ModelCode.MEASUREMENT_SAVEADRESS:
-                    prop.SetValue(saveAdress);
+                    prop.SetValue(saveAddress);
                     break;
                 case ModelCode.MEASUREMENT_POWERSYSRES:
                     prop.SetValue(powerSysResource);
@@ -95,7 +95,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Meas
                     measurementType = (MeasurementType)property.AsEnum();
                     break;
                 case ModelCode.MEASUREMENT_SAVEADRESS:
-                    saveAdress = property.AsString();
+                    saveAddress = property.AsString();
                     break;
                 case ModelCode.MEASUREMENT_POWERSYSRES:
                     powerSysResource = property.AsReference();

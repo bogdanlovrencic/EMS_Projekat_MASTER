@@ -1268,3 +1268,178 @@
 9/20/2019 10:09:02 AM : Trace level: Info
 9/20/2019 10:09:02 AM : The Network Model Service is started.
 9/20/2019 10:09:02 AM : Press <Enter> to stop the service.
+12/26/2020 5:57:02 PM : Starting Network Model Serivice...
+12/26/2020 5:57:34 PM : Inserting entity with GID (0000000100000001).
+12/26/2020 5:57:34 PM : Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 5:57:34 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 5:57:34 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 5:57:36 PM : The WCF service GenericDataAccess is ready.
+12/26/2020 5:57:36 PM : Endpoints:
+12/26/2020 5:57:36 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+12/26/2020 5:57:36 PM : Connection string: ../NetworkModelData.data
+12/26/2020 5:57:36 PM : Trace level: Info
+12/26/2020 5:57:36 PM : The Network Model Service is started.
+12/26/2020 5:57:36 PM : Press <Enter> to stop the service.
+12/26/2020 6:22:17 PM : Starting Network Model Serivice...
+12/26/2020 6:22:18 PM : Inserting entity with GID (0000000100000001).
+12/26/2020 6:22:18 PM : Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 6:22:18 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 6:22:18 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 6:22:18 PM : The WCF service GenericDataAccess is ready.
+12/26/2020 6:22:18 PM : Endpoints:
+12/26/2020 6:22:18 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+12/26/2020 6:22:18 PM : Connection string: ../NetworkModelData.data
+12/26/2020 6:22:18 PM : Trace level: Info
+12/26/2020 6:22:18 PM : The Network Model Service is started.
+12/26/2020 6:22:18 PM : Press <Enter> to stop the service.
+12/26/2020 6:23:16 PM : Starting Network Model Serivice...
+12/26/2020 6:23:16 PM : Inserting entity with GID (0000000100000001).
+12/26/2020 6:23:16 PM : Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 6:23:16 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 6:23:16 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+12/26/2020 6:23:17 PM : The WCF service GenericDataAccess is ready.
+12/26/2020 6:23:17 PM : Endpoints:
+12/26/2020 6:23:17 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+12/26/2020 6:23:17 PM : Connection string: ../NetworkModelData.data
+12/26/2020 6:23:17 PM : Trace level: Info
+12/26/2020 6:23:17 PM : The Network Model Service is started.
+12/26/2020 6:23:17 PM : Press <Enter> to stop the service.
+1/17/2021 2:24:58 PM : Starting Network Model Serivice...
+1/17/2021 2:24:59 PM : Inserting entity with GID (0000000100000001).
+1/17/2021 2:24:59 PM : Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+1/17/2021 2:24:59 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+1/17/2021 2:24:59 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+1/17/2021 2:25:02 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 2:25:02 PM : Endpoints:
+1/17/2021 2:25:02 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 2:25:02 PM : Connection string: ../NetworkModelData.data
+1/17/2021 2:25:02 PM : Trace level: Info
+1/17/2021 2:25:02 PM : The Network Model Service is started.
+1/17/2021 2:25:02 PM : Press <Enter> to stop the service.
+1/17/2021 2:30:43 PM : Starting Network Model Serivice...
+1/17/2021 2:30:44 PM : Inserting entity with GID (0000000100000001).
+1/17/2021 2:30:44 PM : Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+1/17/2021 2:30:44 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+1/17/2021 2:30:44 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Unknown property id = 1369094286720696583 for entity (GID = 0x0000000100000001).
+1/17/2021 2:30:44 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 2:30:44 PM : Endpoints:
+1/17/2021 2:30:44 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 2:30:44 PM : Connection string: ../NetworkModelData.data
+1/17/2021 2:30:44 PM : Trace level: Info
+1/17/2021 2:30:44 PM : The Network Model Service is started.
+1/17/2021 2:30:44 PM : Press <Enter> to stop the service.
+1/17/2021 2:32:21 PM : Applying  delta to network model.
+1/17/2021 2:32:21 PM : Inserting entity with GID (0000000100000002).
+1/17/2021 2:32:21 PM : Inserting entity with GID (0000000200000001).
+1/17/2021 2:32:22 PM : Failed to insert entity (GID = 0x0000000200000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+1/17/2021 2:32:22 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000200000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+1/17/2021 2:35:57 PM : Applying  delta to network model.
+1/17/2021 2:36:50 PM : Inserting entity with GID (0000000100000003).
+1/17/2021 2:41:01 PM : Inserting entity with GID (0000000200000002).
+1/17/2021 2:42:03 PM : Failed to insert entity (GID = 0x0000000200000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+1/17/2021 2:42:05 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000200000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+1/17/2021 2:46:20 PM : Applying  delta to network model.
+1/17/2021 2:46:28 PM : Inserting entity with GID (0000000100000004).
+1/17/2021 2:48:36 PM : Starting Network Model Serivice...
+1/17/2021 2:48:38 PM : Inserting entity with GID (0000000100000002).
+1/17/2021 2:48:39 PM : Inserting entity with GID (0000000200000001).
+1/17/2021 2:48:39 PM : Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000001).
+1/17/2021 2:48:39 PM : Failed to insert entity (GID = 0x0000000200000001) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000001).
+1/17/2021 2:48:39 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000200000001) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000001).
+1/17/2021 2:48:40 PM : Inserting entity with GID (0000000100000003).
+1/17/2021 2:48:41 PM : Inserting entity with GID (0000000200000002).
+1/17/2021 2:48:41 PM : Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000002).
+1/17/2021 2:48:42 PM : Failed to insert entity (GID = 0x0000000200000002) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000002).
+1/17/2021 2:48:42 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000200000002) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000002).
+1/17/2021 2:48:42 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 2:48:42 PM : Endpoints:
+1/17/2021 2:48:42 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 2:48:42 PM : Connection string: ../NetworkModelData.data
+1/17/2021 2:48:42 PM : Trace level: Info
+1/17/2021 2:48:42 PM : The Network Model Service is started.
+1/17/2021 2:48:42 PM : Press <Enter> to stop the service.
+1/17/2021 2:49:48 PM : Starting Network Model Serivice...
+1/17/2021 2:49:50 PM : Inserting entity with GID (0000000100000002).
+1/17/2021 2:49:51 PM : Inserting entity with GID (0000000200000001).
+1/17/2021 2:49:51 PM : Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000001).
+1/17/2021 2:49:51 PM : Failed to insert entity (GID = 0x0000000200000001) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000001).
+1/17/2021 2:49:51 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000200000001) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000001).
+1/17/2021 2:49:53 PM : Inserting entity with GID (0000000100000003).
+1/17/2021 2:49:55 PM : Inserting entity with GID (0000000200000002).
+1/17/2021 2:49:55 PM : Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000002).
+1/17/2021 2:50:01 PM : Failed to insert entity (GID = 0x0000000200000002) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000002).
+1/17/2021 2:50:01 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000200000002) into model. Unknown property id = MEASUREMENT_SAVEADRESS for entity (GID = 0x0000000200000002).
+1/17/2021 2:50:01 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 2:50:01 PM : Endpoints:
+1/17/2021 2:50:01 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 2:50:01 PM : Connection string: ../NetworkModelData.data
+1/17/2021 2:50:01 PM : Trace level: Info
+1/17/2021 2:50:01 PM : The Network Model Service is started.
+1/17/2021 2:50:01 PM : Press <Enter> to stop the service.
+1/17/2021 2:50:24 PM : Applying  delta to network model.
+1/17/2021 2:50:33 PM : Inserting entity with GID (0000000100000003).
+1/17/2021 2:50:33 PM : Failed to insert entity because entity with specified GID (0000000100000003) already exists in network model.
+1/17/2021 2:50:43 PM : Applying delta to network model failed. Failed to insert entity because entity with specified GID (0000000100000003) already exists in network model..
+1/17/2021 2:51:02 PM : Starting Network Model Serivice...
+1/17/2021 2:51:02 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 2:51:02 PM : Endpoints:
+1/17/2021 2:51:02 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 2:51:02 PM : Connection string: ../NetworkModelData.data
+1/17/2021 2:51:02 PM : Trace level: Info
+1/17/2021 2:51:02 PM : The Network Model Service is started.
+1/17/2021 2:51:02 PM : Press <Enter> to stop the service.
+1/17/2021 2:51:21 PM : Applying  delta to network model.
+1/17/2021 2:51:28 PM : Inserting entity with GID (0000000100000001).
+1/17/2021 2:51:46 PM : Inserting entity with GID (0000000400000001).
+1/17/2021 2:52:09 PM : Failed to insert entity (GID = 0x0000000400000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+1/17/2021 2:52:15 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000400000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+1/17/2021 2:53:57 PM : Starting Network Model Serivice...
+1/17/2021 2:53:57 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 2:53:57 PM : Endpoints:
+1/17/2021 2:53:57 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 2:53:57 PM : Connection string: ../NetworkModelData.data
+1/17/2021 2:53:57 PM : Trace level: Info
+1/17/2021 2:53:57 PM : The Network Model Service is started.
+1/17/2021 2:53:57 PM : Press <Enter> to stop the service.
+1/17/2021 2:54:24 PM : Applying  delta to network model.
+1/17/2021 2:54:29 PM : Inserting entity with GID (0000000100000001).
+1/17/2021 2:54:34 PM : Inserting entity with GID (0000000200000001).
+1/17/2021 2:54:40 PM : Inserting entity with GID (0000000600000001).
+1/17/2021 2:54:51 PM : Inserting entity with GID (0000000500000001).
+1/17/2021 2:54:58 PM : Inserting entity with GID (0000000400000001).
+1/17/2021 2:55:05 PM : Inserting entity with GID (0000000300000001).
+1/17/2021 2:55:05 PM : Failed to return value from property for specified type (Int32) because it is incompatible with actual property type (Int64)
+1/17/2021 2:55:29 PM : Failed to insert entity (GID = 0x0000000300000001) into model. Failed to return value from property for specified type (Int32) because it is incompatible with actual property type (Int64)
+1/17/2021 2:55:31 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000001) into model. Failed to return value from property for specified type (Int32) because it is incompatible with actual property type (Int64).
+1/17/2021 2:55:51 PM : Applying  delta to network model.
+1/17/2021 2:55:53 PM : Inserting entity with GID (0000000100000002).
+1/17/2021 2:55:54 PM : Inserting entity with GID (0000000200000002).
+1/17/2021 2:55:55 PM : Inserting entity with GID (0000000600000002).
+1/17/2021 2:55:56 PM : Inserting entity with GID (0000000500000002).
+1/17/2021 2:55:57 PM : Inserting entity with GID (0000000400000002).
+1/17/2021 2:56:47 PM : Inserting entity with GID (0000000300000002).
+1/17/2021 2:57:36 PM : Failed to return value from property for specified type (Int32) because it is incompatible with actual property type (Int64)
+1/17/2021 2:58:28 PM : Starting Network Model Serivice...
+1/17/2021 2:58:29 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 2:58:29 PM : Endpoints:
+1/17/2021 2:58:29 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 2:58:29 PM : Connection string: ../NetworkModelData.data
+1/17/2021 2:58:29 PM : Trace level: Info
+1/17/2021 2:58:29 PM : The Network Model Service is started.
+1/17/2021 2:58:29 PM : Press <Enter> to stop the service.
+1/17/2021 3:03:11 PM : Starting Network Model Serivice...
+1/17/2021 3:03:12 PM : The WCF service GenericDataAccess is ready.
+1/17/2021 3:03:12 PM : Endpoints:
+1/17/2021 3:03:12 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/17/2021 3:03:12 PM : Connection string: ../NetworkModelData.data
+1/17/2021 3:03:12 PM : Trace level: Info
+1/17/2021 3:03:12 PM : The Network Model Service is started.
+1/17/2021 3:03:12 PM : Press <Enter> to stop the service.
+1/17/2021 3:03:38 PM : Applying  delta to network model.
+1/17/2021 3:03:40 PM : Inserting entity with GID (0000000100000001).
+1/17/2021 3:03:47 PM : Inserting entity with GID (0000000200000001).
+1/17/2021 3:03:48 PM : Inserting entity with GID (0000000600000001).
+1/17/2021 3:03:49 PM : Inserting entity with GID (0000000500000001).
+1/17/2021 3:03:55 PM : Inserting entity with GID (0000000400000001).
+1/17/2021 3:04:03 PM : Inserting entity with GID (0000000300000001).
+1/17/2021 3:04:34 PM : Applying delta to network model successfully finished.

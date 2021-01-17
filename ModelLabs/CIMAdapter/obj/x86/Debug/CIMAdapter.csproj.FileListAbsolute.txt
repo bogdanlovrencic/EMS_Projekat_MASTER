@@ -25,3 +25,10 @@ D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\CIMA
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csprojResolveAssemblyReference.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb

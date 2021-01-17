@@ -1,107 +1,73 @@
 ﻿<delta id="0">
   <operations>
     <operation type="insert">
-      <ResourceDescriptions count="9">
+      <ResourceDescriptions count="6">
         <ResourceDescription>
-          <id gid="0x00000001ffffffff" type="CONNECTIVITYNODE" />
+          <id gid="0x00000001ffffffff" type="GEOGRAPHICALREGION" />
           <Properties>
-            <Property id="IDOBJ_MRID" value="connode_1" />
-            <Property id="IDOBJ_NAME" value="FirstConnectivityNode" />
-            <Property id="IDOBJ_ALIASNAME" value="FirstConnectivityNode" />
-            <Property id="CONNODE_DESCRIPTION" value="FirstConnectivityNode" />
+            <Property id="IDOBJ_MRID" value="GeographicalRegion_1" />
+            <Property id="IDOBJ_NAME" value="GeographicalRegion_1" />
+            <Property id="IDOBJ_ALIASNAME" value="GeographicalRegion_1" />
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
-          <id gid="0x00000001fffffffe" type="CONNECTIVITYNODE" />
+          <id gid="0x00000002ffffffff" type="SUBSTATION" />
           <Properties>
-            <Property id="IDOBJ_MRID" value="connode_2" />
-            <Property id="IDOBJ_NAME" value="SecondConnectivityNode" />
-            <Property id="IDOBJ_ALIASNAME" value="SecondConnectivityNode" />
-            <Property id="CONNODE_DESCRIPTION" value="SecondConnectivityNode" />
+            <Property id="IDOBJ_MRID" value="Substation_1" />
+            <Property id="IDOBJ_NAME" value="Substation_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Substation_1" />
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
-          <id gid="0x00000002ffffffff" type="SERIESCOMPENSATOR" />
+          <id gid="0x00000006ffffffff" type="GENERATOR" />
           <Properties>
-            <Property id="IDOBJ_MRID" value="sercom_1" />
-            <Property id="IDOBJ_NAME" value="FirstSerCom" />
-            <Property id="IDOBJ_ALIASNAME" value="FirstSerCom" />
-            <Property id="SERCOMPENSATOR_R" value="10" />
-            <Property id="SERCOMPENSATOR_R0" value="20" />
-            <Property id="SERCOMPENSATOR_X" value="10" />
-            <Property id="SERCOMPENSATOR_X0" value="20" />
+            <Property id="IDOBJ_MRID" value="Generator_1" />
+            <Property id="IDOBJ_NAME" value="Generator_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Generator_1" />
+            <Property id="EQUIPMENT_EQUIPMENTCONT" value="0x00000002ffffffff" />
+            <Property id="ROTATINGMACHINE_RATEDS" value="100" />
+            <Property id="GENERATOR_MAXQ" value="2000" />
+            <Property id="GENERATOR_MINQ" value="0" />
+            <Property id="GENERATOR_GENERATORTYPE" value="wind" />
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
-          <id gid="0x00000003ffffffff" type="DCLINESEGMENT" />
+          <id gid="0x00000005ffffffff" type="ENERGYCONSUMER" />
           <Properties>
-            <Property id="IDOBJ_MRID" value="dc_1" />
-            <Property id="IDOBJ_NAME" value="FirstDC" />
-            <Property id="IDOBJ_ALIASNAME" value="FirstDC" />
-            <Property id="CONDUCTOR_LENGTH" value="20" />
+            <Property id="IDOBJ_MRID" value="EnergyConsumer_1" />
+            <Property id="IDOBJ_NAME" value="EnergyConsumer_1" />
+            <Property id="IDOBJ_ALIASNAME" value="EnergyConsumer_1" />
+            <Property id="EQUIPMENT_EQUIPMENTCONT" value="0x00000002ffffffff" />
+            <Property id="ENERGYCONSUMER_PFIXED" value="10" />
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
-          <id gid="0x00000004ffffffff" type="ACLINESEGMENT" />
+          <id gid="0x00000004ffffffff" type="ANALOG" />
           <Properties>
-            <Property id="IDOBJ_MRID" value="ac_1" />
-            <Property id="IDOBJ_NAME" value="FirstAC" />
-            <Property id="IDOBJ_ALIASNAME" value="FirstAC" />
-            <Property id="CONDUCTOR_LENGTH" value="15" />
-            <Property id="ACLINESEG_B0CH" value="10" />
-            <Property id="ACLINESEG_BCH" value="10" />
-            <Property id="ACLINESEG_G0CH" value="20" />
-            <Property id="ACLINESEG_GCH" value="20" />
-            <Property id="ACLINESEG_R" value="30" />
-            <Property id="ACLINESEG_R0" value="30" />
-            <Property id="ACLINESEG_X" value="40" />
-            <Property id="ACLINESEG_X0" value="40" />
+            <Property id="IDOBJ_MRID" value="Analog_1" />
+            <Property id="IDOBJ_NAME" value="Analog_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Analog_1" />
+            <Property id="MEASUREMENT_SAVEADRESS" value="address_1" />
+            <Property id="MEASUREMENT_DIRECTIONMETHOD" value="readWrite" />
+            <Property id="MEASUREMENT_MEASUREMENTTYPE" value="activePower" />
+            <Property id="MEASUREMENT_POWERSYSRES" value="0x00000005ffffffff" />
+            <Property id="ANALOG_MAXVALUE" value="20000" />
+            <Property id="ANALOG_MINVALUE" value="0" />
+            <Property id="ANALOG_NORMALVALUE" value="100" />
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
-          <id gid="0x00000005ffffffff" type="PERLENGTHSEQUENCEIMPEDANCE" />
+          <id gid="0x00000003ffffffff" type="DISCRETE" />
           <Properties>
-            <Property id="IDOBJ_MRID" value="perlengthsi_1" />
-            <Property id="IDOBJ_NAME" value="FirstSI" />
-            <Property id="IDOBJ_ALIASNAME" value="FirstSI" />
-            <Property id="PLENSIM_B0CH" value="10" />
-            <Property id="PLENSIM_BCH" value="10" />
-            <Property id="PLENSIM_G0CH" value="20" />
-            <Property id="PLENSIM_GCH" value="20" />
-            <Property id="PLENSIM_R" value="30" />
-            <Property id="PLENSIM_R0" value="30" />
-            <Property id="PLENSIM_X" value="40" />
-            <Property id="PLENSIM_X0" value="40" />
-          </Properties>
-        </ResourceDescription>
-        <ResourceDescription>
-          <id gid="0x00000006ffffffff" type="TERMINAL" />
-          <Properties>
-            <Property id="IDOBJ_MRID" value="term_1" />
-            <Property id="IDOBJ_NAME" value="FirstTerminal" />
-            <Property id="IDOBJ_ALIASNAME" value="FirstTerminal" />
-            <Property id="TERMINAL_CONEQ" value="0x00000002ffffffff" />
-            <Property id="TERMINAL_CONNODE" value="0x00000001ffffffff" />
-          </Properties>
-        </ResourceDescription>
-        <ResourceDescription>
-          <id gid="0x00000006fffffffe" type="TERMINAL" />
-          <Properties>
-            <Property id="IDOBJ_MRID" value="term_2" />
-            <Property id="IDOBJ_NAME" value="SecondTerminal" />
-            <Property id="IDOBJ_ALIASNAME" value="SecondTerminal" />
-            <Property id="TERMINAL_CONEQ" value="0x00000003ffffffff" />
-            <Property id="TERMINAL_CONNODE" value="0x00000001fffffffe" />
-          </Properties>
-        </ResourceDescription>
-        <ResourceDescription>
-          <id gid="0x00000006fffffffd" type="TERMINAL" />
-          <Properties>
-            <Property id="IDOBJ_MRID" value="term_3" />
-            <Property id="IDOBJ_NAME" value="ThirdTerminal" />
-            <Property id="IDOBJ_ALIASNAME" value="ThirdTerminal" />
-            <Property id="TERMINAL_CONEQ" value="0x00000002ffffffff" />
-            <Property id="TERMINAL_CONNODE" value="0x00000001fffffffe" />
+            <Property id="IDOBJ_MRID" value="Discrete_1" />
+            <Property id="IDOBJ_NAME" value="Discrete_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Discrete_1" />
+            <Property id="MEASUREMENT_SAVEADRESS" value="address_1" />
+            <Property id="MEASUREMENT_DIRECTIONMETHOD" value="readWrite" />
+            <Property id="MEASUREMENT_POWERSYSRES" value="0x00000005ffffffff" />
+            <Property id="DISCRETE_MAXVALUE" value="1" />
+            <Property id="DISCRETE_MINVALUE" value="0" />
+            <Property id="DISCRETE_NORMALVALUE" value="1" />
           </Properties>
         </ResourceDescription>
       </ResourceDescriptions>

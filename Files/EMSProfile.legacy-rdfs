@@ -151,9 +151,9 @@ For CIMXML data files in RDF syntax, the mRID is mapped to rdf:ID or rdf:about a
     <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:0..1"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
   </rdf:Description>
-  <rdf:Description rdf:about="#Measurement.saveAdress">
+  <rdf:Description rdf:about="#Measurement.saveAddress">
     <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#attribute"/>
-    <rdfs:label>saveAdress</rdfs:label>
+    <rdfs:label>saveAddress</rdfs:label>
     <cims:dataType rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     <rdfs:domain rdf:resource="#Measurement"/>
     <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:0..1"/>
@@ -396,9 +396,9 @@ When the sensor location is needed both Measurement-PSR and Measurement-Terminal
     <rdfs:label>write</rdfs:label>
     <rdf:type rdf:resource="#Direction"/>
   </rdf:Description>
-  <rdf:Description rdf:about="#Measurement.direction">
+  <rdf:Description rdf:about="#Measurement.directionMethod">
     <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#attribute"/>
-    <rdfs:label>direction</rdfs:label>
+    <rdfs:label>directionMethod</rdfs:label>
     <rdfs:range rdf:resource="#Direction"/>
     <rdfs:domain rdf:resource="#Measurement"/>
     <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:1"/>

@@ -867,11 +867,12 @@ namespace FTN.Common
 		private void InitializeTypeIdsInInsertOrder()
 		{
 			typeIdsInInsertOrder.Add(ModelCode.GEOGRAPHICALREGION);
-			typeIdsInInsertOrder.Add(ModelCode.ANALOG);
+            typeIdsInInsertOrder.Add(ModelCode.SUBSTATION);
+            typeIdsInInsertOrder.Add(ModelCode.GENERATOR);
+            typeIdsInInsertOrder.Add(ModelCode.ENERGYCONSUMER);
+            typeIdsInInsertOrder.Add(ModelCode.ANALOG);
 			typeIdsInInsertOrder.Add(ModelCode.DISCRETE);
-			typeIdsInInsertOrder.Add(ModelCode.SUBSTATION);
-			typeIdsInInsertOrder.Add(ModelCode.ENERGYCONSUMER);
-			typeIdsInInsertOrder.Add(ModelCode.GENERATOR);
+		
 		}
 
 		private void InitializeNotSettablePropertyIds()

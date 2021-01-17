@@ -48,3 +48,14 @@ D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\Mode
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
 D:\Fax\IV godina\Blok3\Projekat2018\Projekat104\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\ModelLabsApp.exe.config
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\ModelLabsApp.exe
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\bin\ModelLabsApp.pdb
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csprojResolveAssemblyReference.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb

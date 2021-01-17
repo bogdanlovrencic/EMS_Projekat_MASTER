@@ -20,11 +20,11 @@ namespace FTN {
     ///When the sensor location is needed both Measurement-PSR and Measurement-Terminal are used. The Measurement-Terminal association is never used alone.
     public class Measurement : IdentifiedObject {
         
-        private Direction? cim_direction;
+        private Direction? cim_directionMethod;
         
-        private const bool isDirectionMandatory = true;
+        private const bool isDirectionMethodMandatory = true;
         
-        private const string _directionPrefix = "cim";
+        private const string _directionMethodPrefix = "cim";
         
         /// Specifies the type of measurement.  For example, this specifies if the measurement represents an indoor temperature, outdoor temperature, bus voltage, line flow, etc.
         private MeasurementType? cim_measurementType;
@@ -40,36 +40,36 @@ namespace FTN {
         
         private const string _PowerSystemResourcePrefix = "cim";
         
-        private string cim_saveAdress;
+        private string cim_saveAddress;
         
-        private const bool isSaveAdressMandatory = false;
+        private const bool isSaveAddressMandatory = false;
         
-        private const string _saveAdressPrefix = "cim";
+        private const string _saveAddressPrefix = "cim";
         
-        public virtual Direction Direction {
+        public virtual Direction DirectionMethod {
             get {
-                return this.cim_direction.GetValueOrDefault();
+                return this.cim_directionMethod.GetValueOrDefault();
             }
             set {
-                this.cim_direction = value;
+                this.cim_directionMethod = value;
             }
         }
         
-        public virtual bool DirectionHasValue {
+        public virtual bool DirectionMethodHasValue {
             get {
-                return this.cim_direction != null;
+                return this.cim_directionMethod != null;
             }
         }
         
-        public static bool IsDirectionMandatory {
+        public static bool IsDirectionMethodMandatory {
             get {
-                return isDirectionMandatory;
+                return isDirectionMethodMandatory;
             }
         }
         
-        public static string DirectionPrefix {
+        public static string DirectionMethodPrefix {
             get {
-                return _directionPrefix;
+                return _directionMethodPrefix;
             }
         }
         
@@ -127,30 +127,30 @@ namespace FTN {
             }
         }
         
-        public virtual string SaveAdress {
+        public virtual string SaveAddress {
             get {
-                return this.cim_saveAdress;
+                return this.cim_saveAddress;
             }
             set {
-                this.cim_saveAdress = value;
+                this.cim_saveAddress = value;
             }
         }
         
-        public virtual bool SaveAdressHasValue {
+        public virtual bool SaveAddressHasValue {
             get {
-                return this.cim_saveAdress != null;
+                return this.cim_saveAddress != null;
             }
         }
         
-        public static bool IsSaveAdressMandatory {
+        public static bool IsSaveAddressMandatory {
             get {
-                return isSaveAdressMandatory;
+                return isSaveAddressMandatory;
             }
         }
         
-        public static string SaveAdressPrefix {
+        public static string SaveAddressPrefix {
             get {
-                return _saveAdressPrefix;
+                return _saveAddressPrefix;
             }
         }
     }
