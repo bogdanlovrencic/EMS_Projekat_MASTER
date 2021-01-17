@@ -4,11 +4,12 @@ using System.Collections.Generic;
 using FTN.Services.NetworkModelService.DataModel.Core;
 using FTN.Common;
 
-namespace FTN.Services.NetworkModelService.DataModel
+namespace FTN.Services.NetworkModelService.DataModel.Core
 {
     /// A modeling construct to provide a root class for containing equipment.
     public class EquipmentContainer : ConnectivityNodeContainer
     {
+<<<<<<< Updated upstream
         private List<long> equipments = new List<long>();
 
         public EquipmentContainer(long globalId) : base(globalId)
@@ -132,5 +133,10 @@ namespace FTN.Services.NetworkModelService.DataModel
             }
         }
         #endregion IReference implementation
+=======
+        public EquipmentContainer(long globalId) : base(globalId)
+        {
+        }
+>>>>>>> Stashed changes
     }
 }
