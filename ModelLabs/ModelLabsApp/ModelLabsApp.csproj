@@ -112,7 +112,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CIMAdapter\CIMAdapter.csproj">
-      <Project>{F680D34F-C148-4314-8914-B2DF3E7B17AF}</Project>
+      <Project>{f680d34f-c148-4314-8914-b2df3e7b17af}</Project>
       <Name>CIMAdapter</Name>
     </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">

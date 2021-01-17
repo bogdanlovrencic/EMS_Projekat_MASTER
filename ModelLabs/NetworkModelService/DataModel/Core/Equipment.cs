@@ -8,7 +8,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
 {
     public class Equipment : PowerSystemResource
     {
-<<<<<<< Updated upstream
+
         private long equipmentContainer = 0;
 
         public Equipment(long globalId) : base(globalId)
@@ -90,10 +90,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
 
             base.GetReferences(references, refType);
         }
-=======
-        public Equipment(long globalId) : base(globalId)
-        {
-        }
->>>>>>> Stashed changes
+
+
     }
 }

@@ -2,10 +2,7 @@ using System;
 using FTN;
 using FTN.Common;
 
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
 namespace FTN.Services.NetworkModelService.DataModel.Core
 {
 
@@ -14,7 +11,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
         public ConnectivityNodeContainer(long globalId) : base(globalId)
         {
         }
-<<<<<<< Updated upstream
+
 
 
         public override bool Equals(object obj)
@@ -67,7 +64,5 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
                     break;
             }
         }
-=======
->>>>>>> Stashed changes
     }
 }
