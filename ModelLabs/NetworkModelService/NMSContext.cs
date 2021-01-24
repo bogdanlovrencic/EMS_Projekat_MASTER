@@ -9,7 +9,7 @@ namespace FTN.Services.NetworkModelService
 {
     public class NMSContext : DbContext
     {
-        DbSet<DeltaSave> deltaSaves { get; set; }
+        public DbSet<DeltaSave> deltaSaves { get; set; }
 
         public NMSContext() : base("name=AppContextConnectionString")
         {

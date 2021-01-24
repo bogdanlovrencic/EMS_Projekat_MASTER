@@ -1520,3 +1520,179 @@
 1/24/2021 4:19:32 PM : Trace level: Info
 1/24/2021 4:19:32 PM : The Network Model Service is started.
 1/24/2021 4:19:32 PM : Press <Enter> to stop the service.
+1/24/2021 4:58:00 PM : Starting Network Model Serivice...
+1/24/2021 4:58:01 PM : Failed to read Delta from database. No connection string named 'AppContextConnectionString' could be found in the application config file.
+1/24/2021 4:58:01 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 4:58:01 PM : Endpoints:
+1/24/2021 4:58:01 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 4:58:01 PM : Connection string: ../NetworkModelData.data
+1/24/2021 4:58:01 PM : Trace level: Info
+1/24/2021 4:58:01 PM : The Network Model Service is started.
+1/24/2021 4:58:01 PM : Press <Enter> to stop the service.
+1/24/2021 4:58:46 PM : Starting Network Model Serivice...
+1/24/2021 5:00:00 PM : Starting Network Model Serivice...
+1/24/2021 5:00:54 PM : Starting Network Model Serivice...
+1/24/2021 5:04:03 PM : Starting Network Model Serivice...
+1/24/2021 5:04:23 PM : Successfully read 0 Delta from database.
+1/24/2021 5:04:23 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:04:23 PM : Endpoints:
+1/24/2021 5:04:23 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:04:23 PM : The Network Model Service is closed.
+1/24/2021 5:04:23 PM : Object reference not set to an instance of an object.
+1/24/2021 5:04:23 PM : NetworkModelService failed.
+1/24/2021 5:04:23 PM :    at FTN.Services.NetworkModelService.Config..ctor() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Config.cs:line 22
+   at FTN.Services.NetworkModelService.Config.get_Instance() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Config.cs:line 35
+   at FTN.Services.NetworkModelService.NetworkModelService.StartHosts() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\NetworkModelService.cs:line 73
+   at FTN.Services.NetworkModelService.NetworkModelService.Start() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\NetworkModelService.cs:line 29
+   at FTN.Services.NetworkModelService.Program.Main(String[] args) in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\Program.cs:line 24
+1/24/2021 5:04:54 PM : Starting Network Model Serivice...
+1/24/2021 5:05:11 PM : Successfully read 0 Delta from database.
+1/24/2021 5:05:38 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:05:38 PM : Endpoints:
+1/24/2021 5:05:38 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:05:38 PM : The Network Model Service is closed.
+1/24/2021 5:06:00 PM : Object reference not set to an instance of an object.
+1/24/2021 5:06:00 PM : NetworkModelService failed.
+1/24/2021 5:06:00 PM :    at FTN.Services.NetworkModelService.Config..ctor() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Config.cs:line 22
+   at FTN.Services.NetworkModelService.Config.get_Instance() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\Config.cs:line 35
+   at FTN.Services.NetworkModelService.NetworkModelService.StartHosts() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\NetworkModelService.cs:line 73
+   at FTN.Services.NetworkModelService.NetworkModelService.Start() in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\NetworkModelService.cs:line 29
+   at FTN.Services.NetworkModelService.Program.Main(String[] args) in D:\Fax\Master\EMS\EMSProject\EMS_Projekat_MASTER\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\Program.cs:line 24
+1/24/2021 5:06:08 PM : Starting Network Model Serivice...
+1/24/2021 5:06:16 PM : Successfully read 0 Delta from database.
+1/24/2021 5:06:22 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:06:22 PM : Endpoints:
+1/24/2021 5:06:22 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:06:22 PM : The Network Model Service is closed.
+1/24/2021 5:06:32 PM : Starting Network Model Serivice...
+1/24/2021 5:06:44 PM : Successfully read 0 Delta from database.
+1/24/2021 5:09:02 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:09:05 PM : Endpoints:
+1/24/2021 5:09:22 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:09:28 PM : The Network Model Service is closed.
+1/24/2021 5:10:05 PM : Starting Network Model Serivice...
+1/24/2021 5:10:12 PM : Successfully read 0 Delta from database.
+1/24/2021 5:10:34 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:10:34 PM : Endpoints:
+1/24/2021 5:10:34 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:15:32 PM : The Network Model Service is closed.
+1/24/2021 5:16:31 PM : Starting Network Model Serivice...
+1/24/2021 5:16:37 PM : Successfully read 0 Delta from database.
+1/24/2021 5:16:43 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:16:43 PM : Endpoints:
+1/24/2021 5:16:43 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:16:56 PM : Connection string: Data Source=(localdb)\MSSQLLocalDB;
+    Initial Catalog=NmsDB;
+    Integrated Security=True;
+1/24/2021 5:16:57 PM : Trace level: Info
+1/24/2021 5:16:59 PM : The Network Model Service is started.
+1/24/2021 5:17:04 PM : Press <Enter> to stop the service.
+1/24/2021 5:20:25 PM : Starting Network Model Serivice...
+1/24/2021 5:20:33 PM : Successfully read 0 Delta from database.
+1/24/2021 5:20:42 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:20:42 PM : Endpoints:
+1/24/2021 5:20:42 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:20:45 PM : Connection string: AppContextConnectionString
+1/24/2021 5:20:45 PM : Trace level: Info
+1/24/2021 5:20:45 PM : The Network Model Service is started.
+1/24/2021 5:20:45 PM : Press <Enter> to stop the service.
+1/24/2021 5:21:29 PM : Applying  delta to network model.
+1/24/2021 5:21:29 PM : Inserting entity with GID (0000000100000001).
+1/24/2021 5:21:29 PM : Inserting entity with GID (0000000200000001).
+1/24/2021 5:21:29 PM : Inserting entity with GID (0000000600000001).
+1/24/2021 5:21:29 PM : Inserting entity with GID (0000000500000001).
+1/24/2021 5:21:29 PM : Inserting entity with GID (0000000400000001).
+1/24/2021 5:21:29 PM : Inserting entity with GID (0000000300000001).
+1/24/2021 5:22:26 PM : Successfully Inserted new Delta into database
+1/24/2021 5:22:38 PM : Applying delta to network model successfully finished.
+1/24/2021 5:24:05 PM : Starting Network Model Serivice...
+1/24/2021 5:24:27 PM : <delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="6">
+        <ResourceDescription>
+          <id gid="0x0000000100000001" type="GEOGRAPHICALREGION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="GeographicalRegion_1" />
+            <Property id="IDOBJ_NAME" value="GeographicalRegion_1" />
+            <Property id="IDOBJ_ALIASNAME" value="GeographicalRegion_1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x0000000200000001" type="SUBSTATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="Substation_1" />
+            <Property id="IDOBJ_NAME" value="Substation_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Substation_1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x0000000600000001" type="GENERATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="Generator_1" />
+            <Property id="IDOBJ_NAME" value="Generator_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Generator_1" />
+            <Property id="EQUIPMENT_EQUIPMENTCONT" value="0x0000000200000001" />
+            <Property id="ROTATINGMACHINE_RATEDS" value="100" />
+            <Property id="GENERATOR_MAXQ" value="2000" />
+            <Property id="GENERATOR_MINQ" value="0" />
+            <Property id="GENERATOR_GENERATORTYPE" value="wind" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x0000000500000001" type="ENERGYCONSUMER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="EnergyConsumer_1" />
+            <Property id="IDOBJ_NAME" value="EnergyConsumer_1" />
+            <Property id="IDOBJ_ALIASNAME" value="EnergyConsumer_1" />
+            <Property id="EQUIPMENT_EQUIPMENTCONT" value="0x0000000200000001" />
+            <Property id="ENERGYCONSUMER_PFIXED" value="10" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x0000000400000001" type="ANALOG" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="Analog_1" />
+            <Property id="IDOBJ_NAME" value="Analog_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Analog_1" />
+            <Property id="MEASUREMENT_SAVEADRESS" value="address_1" />
+            <Property id="MEASUREMENT_DIRECTIONMETHOD" value="readWrite" />
+            <Property id="MEASUREMENT_MEASUREMENTTYPE" value="activePower" />
+            <Property id="MEASUREMENT_POWERSYSRES" value="0x0000000500000001" />
+            <Property id="ANALOG_MAXVALUE" value="20000" />
+            <Property id="ANALOG_MINVALUE" value="0" />
+            <Property id="ANALOG_NORMALVALUE" value="100" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x0000000300000001" type="DISCRETE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="Discrete_1" />
+            <Property id="IDOBJ_NAME" value="Discrete_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Discrete_1" />
+            <Property id="MEASUREMENT_SAVEADRESS" value="address_1" />
+            <Property id="MEASUREMENT_DIRECTIONMETHOD" value="readWrite" />
+            <Property id="MEASUREMENT_POWERSYSRES" value="0x0000000500000001" />
+            <Property id="DISCRETE_MAXVALUE" value="1" />
+            <Property id="DISCRETE_MINVALUE" value="0" />
+            <Property id="DISCRETE_NORMALVALUE" value="1" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
+1/24/2021 5:24:27 PM : Successfully read 1 Delta from database.
+1/24/2021 5:24:27 PM : Inserting entity with GID (0000000100000001).
+1/24/2021 5:24:27 PM : Inserting entity with GID (0000000200000001).
+1/24/2021 5:24:27 PM : Inserting entity with GID (0000000600000001).
+1/24/2021 5:24:27 PM : Inserting entity with GID (0000000500000001).
+1/24/2021 5:24:27 PM : Inserting entity with GID (0000000400000001).
+1/24/2021 5:24:27 PM : Inserting entity with GID (0000000300000001).
+1/24/2021 5:24:27 PM : The WCF service GenericDataAccess is ready.
+1/24/2021 5:24:27 PM : Endpoints:
+1/24/2021 5:24:27 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+1/24/2021 5:24:27 PM : Connection string: AppContextConnectionString
+1/24/2021 5:24:27 PM : Trace level: Info
+1/24/2021 5:24:27 PM : The Network Model Service is started.
+1/24/2021 5:24:27 PM : Press <Enter> to stop the service.

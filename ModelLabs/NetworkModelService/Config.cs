@@ -19,7 +19,7 @@ namespace FTN.Services.NetworkModelService
 
 		private Config()
 		{
-			connectionString = ConfigurationManager.ConnectionStrings["networkModelconnectionString"].ConnectionString;
+			connectionString = ConfigurationManager.ConnectionStrings["AppContextConnectionString"].Name;
 		}
 
 		#region Static members

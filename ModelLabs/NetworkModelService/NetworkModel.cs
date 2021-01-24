@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Xml;
 using FTN.Common;
 using FTN.Services.NetworkModelService.DataModel;
 using FTN.Services.NetworkModelService.DataModel.Core;
 using FTN.Services.NetworkModelService.DataModel.Wires;
+using FTN.Services.NetworkModelService.Model;
 
 namespace FTN.Services.NetworkModelService
 {	
@@ -666,82 +668,137 @@ namespace FTN.Services.NetworkModelService
 
 		private void SaveDelta(Delta delta)
 		{
-			bool fileExisted = false;
+            string message = "";
+            try
+            {
+                NMSContext dbContext = new NMSContext();
+                DeltaSave deltaSave = new DeltaSave();
 
-			if (File.Exists(Config.Instance.ConnectionString))
-			{
-				fileExisted = true;
-			}
+                deltaSave.DeltaInfo = ToByteArray<Delta>(delta);
+                dbContext.deltaSaves.Add(deltaSave);
+                dbContext.SaveChanges();
 
-			FileStream fs = new FileStream(Config.Instance.ConnectionString, FileMode.OpenOrCreate, FileAccess.ReadWrite);
-			fs.Seek(0, SeekOrigin.Begin);
+                message = string.Format("Successfully Inserted new Delta into database");
+                CommonTrace.WriteTrace(CommonTrace.TraceInfo, message);
+                Console.WriteLine(message);
+            }
+            catch (Exception exp)
+            {
 
-			BinaryReader br = null;
-			int deltaCount = 0;
+                message = string.Format("Error while trying to Insert new Delta into database, Message: {0}",exp.Message);
+                CommonTrace.WriteTrace(CommonTrace.TraceInfo, message);
+                Console.WriteLine(message);
+                return;
+            }
+            
 
-			if (fileExisted)
-			{
-				br = new BinaryReader(fs);
-				deltaCount = br.ReadInt32();
-			}
+            //bool fileExisted = false;
 
-			BinaryWriter bw = new BinaryWriter(fs);
-			fs.Seek(0, SeekOrigin.Begin);
+            //if (File.Exists(Config.Instance.ConnectionString))
+            //{
+            //	fileExisted = true;
+            //}
 
-			delta.Id = ++deltaCount;
-			byte[] deltaSerialized = delta.Serialize();
-			int deltaLength = deltaSerialized.Length;
+            //FileStream fs = new FileStream(Config.Instance.ConnectionString, FileMode.OpenOrCreate, FileAccess.ReadWrite);
+            //fs.Seek(0, SeekOrigin.Begin);
 
-			bw.Write(deltaCount);
-			fs.Seek(0, SeekOrigin.End);
-			bw.Write(deltaLength);
-			bw.Write(deltaSerialized);
+            //BinaryReader br = null;
+            //int deltaCount = 0;
 
-			if (br != null)
-			{
-				br.Close();
-			}
+            //if (fileExisted)
+            //{
+            //	br = new BinaryReader(fs);
+            //	deltaCount = br.ReadInt32();
+            //}
 
-			bw.Close();			
-			fs.Close(); 
-		}
+            //BinaryWriter bw = new BinaryWriter(fs);
+            //fs.Seek(0, SeekOrigin.Begin);
+
+            //delta.Id = ++deltaCount;
+            //byte[] deltaSerialized = delta.Serialize();
+            //int deltaLength = deltaSerialized.Length;
+
+            //bw.Write(deltaCount);
+            //fs.Seek(0, SeekOrigin.End);
+            //bw.Write(deltaLength);
+            //bw.Write(deltaSerialized);
+
+            //if (br != null)
+            //{
+            //	br.Close();
+            //}
+
+            //bw.Close();			
+            //fs.Close(); 
+        }
 
 		private List<Delta> ReadAllDeltas()
 		{
-			List<Delta> result = new List<Delta>();
-
-            if (!File.Exists(Config.Instance.ConnectionString))
+            List<Delta> result = new List<Delta>();
+            List<DeltaSave> dbDelta = new List<DeltaSave>();
+            NMSContext dbContext = new NMSContext();
+            string message = "";
+            try
             {
+                dbDelta = dbContext.deltaSaves.OrderBy(delta=> delta.Id).ToList();
+                foreach (DeltaSave deltaSave in dbDelta)
+                {
+                    byte[] deltaInfoBytes = deltaSave.DeltaInfo;
+                    Delta delta = FromByteArray<Delta>(deltaInfoBytes);
+                    result.Add(delta);
+
+                    TraceDelta(delta);
+                }
+
+                message = string.Format("Successfully read {0} Delta from database.", result.Count.ToString());
+                CommonTrace.WriteTrace(CommonTrace.TraceInfo, message);
+                Console.WriteLine(message);
+
                 return result;
             }
+            catch (Exception exp)
+            {
+                message = string.Format("Failed to read Delta from database. {0}", exp.Message);
+                CommonTrace.WriteTrace(CommonTrace.TraceError, message);
+                Console.WriteLine(message);
+                return new List<Delta>();
 
-			FileStream fs = new FileStream(Config.Instance.ConnectionString, FileMode.OpenOrCreate, FileAccess.Read);
-			fs.Seek(0, SeekOrigin.Begin);
+            }
 
-			if (fs.Position < fs.Length) // if it is not empty stream
-			{
-				BinaryReader br = new BinaryReader(fs);
-				
-				int deltaCount = br.ReadInt32();
-				int deltaLength = 0;
-				byte[] deltaSerialized = null;
-				Delta delta = null;
+            //if (!File.Exists(Config.Instance.ConnectionString))
+            //{
+            //    return result;
+            //}
 
-				for (int i = 0; i < deltaCount; i++)
-				{
-					deltaLength = br.ReadInt32();
-					deltaSerialized = new byte[deltaLength];
-					br.Read(deltaSerialized, 0, deltaLength);
-					delta = Delta.Deserialize(deltaSerialized);
-					result.Add(delta);
-				}
+            //FileStream fs = new FileStream(Config.Instance.ConnectionString, FileMode.OpenOrCreate, FileAccess.Read);
+            //fs.Seek(0, SeekOrigin.Begin);
 
-				br.Close();
-			}
+            //if (fs.Position < fs.Length) // if it is not empty stream
+            //{
+            //    BinaryReader br = new BinaryReader(fs);
 
-			fs.Close();
+            //    int deltaCount = br.ReadInt32();
+            //    int deltaLength = 0;
+            //    byte[] deltaSerialized = null;
+            //    Delta delta = null;
 
-			return result;
+            //    for (int i = 0; i < deltaCount; i++)
+            //    {
+            //        deltaLength = br.ReadInt32();
+            //        deltaSerialized = new byte[deltaLength];
+            //        br.Read(deltaSerialized, 0, deltaLength);
+            //        delta = Delta.Deserialize(deltaSerialized);
+            //        result.Add(delta);
+            //    }
+
+            //    br.Close();
+            //}
+
+            //fs.Close();
+
+            //return result;
+            
+			
 		}
 
 		private Dictionary<short, int> GetCounters()
@@ -761,5 +818,30 @@ namespace FTN.Services.NetworkModelService
 			return typesCounters;
 		}
 
-	}
+
+        public byte[] ToByteArray<T>(T obj)
+        {
+            if (obj == null)
+                return null;
+            BinaryFormatter bf = new BinaryFormatter();
+            using (MemoryStream ms = new MemoryStream())
+            {
+                bf.Serialize(ms, obj);
+                return ms.ToArray();
+            }
+        }
+
+        public T FromByteArray<T>(byte[] data)
+        {
+            if (data == null)
+                return default(T);
+            BinaryFormatter bf = new BinaryFormatter();
+            using (MemoryStream ms = new MemoryStream(data))
+            {
+                object obj = bf.Deserialize(ms);
+                return (T)obj;
+            }
+        }
+
+    }
 }
