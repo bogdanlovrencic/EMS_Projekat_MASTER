@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sloba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sloba\\.nuget\\packages"
+    ]
+  }
+}

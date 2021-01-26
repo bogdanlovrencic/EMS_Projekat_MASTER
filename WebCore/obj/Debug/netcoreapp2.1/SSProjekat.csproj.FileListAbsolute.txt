@@ -1,0 +1,112 @@
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.json
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.deps.json
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.json
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.dev.json
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.csprojAssemblyReference.cache
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cache
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cs
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfoInputs.cache
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfo.cs
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorTargetAssemblyInfo.cache
+C:\dev\Sara\API\SSProjekat\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\Sara\API\SSProjekat\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.json
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.deps.json
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.json
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.dev.json
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.csprojAssemblyReference.cache
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cache
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cs
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfoInputs.cache
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfo.cs
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorTargetAssemblyInfo.cache
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\Sara Projekat Final\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.json
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.deps.json
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.json
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.dev.json
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.csprojAssemblyReference.cache
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cache
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cs
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfoInputs.cache
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfo.cs
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorTargetAssemblyInfo.cache
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.json
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.deps.json
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.json
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.dev.json
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.dll
+C:\sloba\SaraApi\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cache
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cs
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfoInputs.cache
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfo.cs
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorTargetAssemblyInfo.cache
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.dll
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\sloba\SaraApi\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.csprojAssemblyReference.cache
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.json
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.deps.json
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.json
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.dev.json
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\Sloba\SlobaAPI\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.csprojAssemblyReference.cache
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cache
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cs
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfoInputs.cache
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfo.cs
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorTargetAssemblyInfo.cache
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.dll
+C:\dev\Sloba\SlobaAPI\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.deps.json
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.json
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.dev.json
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.dll
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.csprojAssemblyReference.cache
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cache
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cs
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfoInputs.cache
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfo.cs
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorTargetAssemblyInfo.cache
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.dll
+C:\Users\Sloba\Desktop\Projekat\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.deps.json
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.json
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.runtimeconfig.dev.json
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.dll
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\bin\Debug\netcoreapp2.1\SSProjekat.pdb
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.csprojAssemblyReference.cache
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cache
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorAssemblyInfo.cs
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfoInputs.cache
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.AssemblyInfo.cs
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.RazorTargetAssemblyInfo.cache
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.dll
+C:\Users\Sloba\Desktop\slobaAPI-master\SSProjekat\obj\Debug\netcoreapp2.1\SSProjekat.pdb
