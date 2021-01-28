@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#" xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+<!--GeographicalRegion -->
+<cim:GeographicalRegion rdf:ID="GeographicalRegion_1">
+		<cim:IdentifiedObject.aliasName>GeographicalRegion_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>GeographicalRegion_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>GeographicalRegion_1</cim:IdentifiedObject.name>
+	</cim:GeographicalRegion>
+	
+<!--Substation -->
+	<cim:Substation rdf:ID="Substation_1">
+		<cim:IdentifiedObject.aliasName>Substation_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>Substation_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>Substation_1</cim:IdentifiedObject.name>
+	</cim:Substation>
+	
+<!--Generator -->	
+	<cim:Generator rdf:ID="Generator_1">
+		<cim:Generator.generatorType>wind</cim:Generator.generatorType>
+		<cim:Generator.maxQ>2000</cim:Generator.maxQ>
+		<cim:Generator.minQ>0</cim:Generator.minQ>
+		<cim:RotatingMachine.ratedS>100</cim:RotatingMachine.ratedS>
+		<cim:Equipment.EquipmentContainer rdf:resource="#Substation_1"/>
+		<cim:IdentifiedObject.aliasName>Generator_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>Generator_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>Generator_1</cim:IdentifiedObject.name>
+	</cim:Generator>
+	
+<!--EnergyConsumer -->		
+	<cim:EnergyConsumer rdf:ID="EnergyConsumer_1">		
+		<cim:EnergyConsumer.pfixed>10</cim:EnergyConsumer.pfixed>
+		<cim:EnergyConsumer.currentPower>30</cim:EnergyConsumer.currentPower>
+		<cim:Equipment.EquipmentContainer rdf:resource="#Substation_1"/>
+		<cim:IdentifiedObject.aliasName>EnergyConsumer_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>EnergyConsumer_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>EnergyConsumer_1</cim:IdentifiedObject.name>
+	</cim:EnergyConsumer>
+	
+<!--Analog -->		
+	<cim:Analog rdf:ID="Analog_1">
+		<cim:Analog.maxValue>20000</cim:Analog.maxValue>
+		<cim:Analog.minValue>0</cim:Analog.minValue>
+		<cim:Analog.normalValue>100</cim:Analog.normalValue>
+		<cim:Measurement.directionMethod>readWrite</cim:Measurement.directionMethod>
+		<cim:Measurement.measurementType>activePower</cim:Measurement.measurementType>
+		<cim:Measurement.PowerSystemResource rdf:resource="#EnergyConsumer_1"/>
+		<cim:Measurement.saveAddress>address_1</cim:Measurement.saveAddress>
+		<cim:IdentifiedObject.aliasName>Analog_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>Analog_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>Analog_1 </cim:IdentifiedObject.name>
+	</cim:Analog>
+
+<!--Discrete -->
+	<cim:Discrete rdf:ID="Discrete_1">
+		<cim:Discrete.maxValue>1</cim:Discrete.maxValue>
+		<cim:Discrete.minValue>0</cim:Discrete.minValue>
+		<cim:Discrete.normalValue>1</cim:Discrete.normalValue>
+		<cim:Measurement.directionMethod>readWrite</cim:Measurement.directionMethod>
+		<cim:Measurement.measurementType> </cim:Measurement.measurementType>
+		<cim:Measurement.PowerSystemResource rdf:resource="#EnergyConsumer_1"/> 
+		<cim:Measurement.saveAddress>address_1</cim:Measurement.saveAddress>
+		<cim:IdentifiedObject.aliasName>Discrete_1</cim:IdentifiedObject.aliasName> 
+		<cim:IdentifiedObject.mRID>Discrete_1</cim:IdentifiedObject.mRID> 
+		<cim:IdentifiedObject.name>Discrete_1 </cim:IdentifiedObject.name>
+	</cim:Discrete>
+</rdf:RDF>
