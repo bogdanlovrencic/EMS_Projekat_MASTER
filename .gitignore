@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+ModelLabs/.vs/ModelLabs/v15/Server/sqlite3/storage.ide-wal
+ModelLabs/.vs/ModelLabs/v15/.suo
+*.ide
