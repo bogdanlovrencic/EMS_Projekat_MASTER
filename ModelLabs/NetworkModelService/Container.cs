@@ -22,12 +22,24 @@ namespace FTN.Services.NetworkModelService
 		/// </summary>		
 		private Dictionary<long, IdentifiedObject> entities = new Dictionary<long, IdentifiedObject>();	
 
+        public Container CloneEnitiy()
+        {
+            Container container = new Container();
+            foreach (KeyValuePair<long, IdentifiedObject> entity in Entities)
+            {
+                container.Entities.Add(entity.Key, entity.Value.CloneEntity());
+            }
+            return container;
+        }
+
 		/// <summary>
 		/// Initializes a new instance of the Container class
 		/// </summary>
 		public Container()
 		{
-		}
+            Entities = new Dictionary<long, IdentifiedObject>();
+
+        }
 
 		/// <summary>
 		/// Gets or sets dictionary of entities (identified objects) inside container.

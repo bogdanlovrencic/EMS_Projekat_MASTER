@@ -19,12 +19,13 @@ namespace FTN.Services.NetworkModelService
 		/// <summary>
 		/// Dictionaru which contains all data: Key - DMSType, Value - Container
 		/// </summary>
-		private Dictionary<DMSType, Container> networkDataModel;		
+		private Dictionary<DMSType, Container> networkDataModel;
+        private Dictionary<DMSType, Container> TransactionnetworkDataModel;
 
-		/// <summary>
-		/// ModelResourceDesc class contains metadata of the model
-		/// </summary>
-		private ModelResourcesDesc resourcesDescs;
+        /// <summary>
+        /// ModelResourceDesc class contains metadata of the model
+        /// </summary>
+        private ModelResourcesDesc resourcesDescs;
 	
 		/// <summary>
 		/// Initializes a new instance of the Model class.
@@ -32,7 +33,8 @@ namespace FTN.Services.NetworkModelService
 		public NetworkModel()
 		{
 			networkDataModel = new Dictionary<DMSType, Container>();
-			resourcesDescs = new ModelResourcesDesc();			
+            TransactionnetworkDataModel = new Dictionary<DMSType, Container>();
+            resourcesDescs = new ModelResourcesDesc();			
 			Initialize();
 		}
 	

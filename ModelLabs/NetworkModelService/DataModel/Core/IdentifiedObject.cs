@@ -142,6 +142,11 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
             return base.GetHashCode();
         }
 
+        public virtual IdentifiedObject CloneEntity()
+        {
+            return new IdentifiedObject(this.GlobalId) { Mrid = this.Mrid, Name = this.name, AliasName = this.aliasName };
+        }
+
         #region IAccess implementation		
 
         public virtual bool HasProperty(ModelCode property)
