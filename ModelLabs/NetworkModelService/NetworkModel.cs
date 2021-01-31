@@ -57,7 +57,24 @@ namespace FTN.Services.NetworkModelService
 		    return false;
 		}
 
-		public IdentifiedObject GetEntity(long globalId)
+        public bool EntityExistsTransaction(long globalId)
+        {
+            DMSType type = (DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(globalId);
+
+            if (ContainerExistsTransaction(type))
+            {
+                Container container = GetContainerTransaction(type);
+
+                if (container.EntityExists(globalId))
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        public IdentifiedObject GetEntity(long globalId)
 		{
 			if (EntityExists(globalId))
 			{
@@ -73,13 +90,29 @@ namespace FTN.Services.NetworkModelService
 			}
 		}
 
+        public IdentifiedObject GetEntityTransaction(long globalId)
+        {
+            if (EntityExistsTransaction(globalId))
+            {
+                DMSType type = (DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(globalId);
+                IdentifiedObject io = GetContainerTransaction(type).GetEntity(globalId);
 
-		/// <summary>
-		/// Checks if container exists in model.
-		/// </summary>
-		/// <param name="type">Type of container.</param>
-		/// <returns>True if container exists, otherwise FALSE.</returns>
-		private bool ContainerExists(DMSType type)
+                return io;
+            }
+            else
+            {
+                string message = string.Format("Entity  (GID = 0x{0:x16}) does not exist.", globalId);
+                throw new Exception(message);
+            }
+        }
+
+
+        /// <summary>
+        /// Checks if container exists in model.
+        /// </summary>
+        /// <param name="type">Type of container.</param>
+        /// <returns>True if container exists, otherwise FALSE.</returns>
+        private bool ContainerExists(DMSType type)
 		{
 			if (networkDataModel.ContainsKey(type))
 			{
@@ -89,12 +122,22 @@ namespace FTN.Services.NetworkModelService
 			return false;			
 		}
 
-		/// <summary>
-		/// Gets container of specified type.
-		/// </summary>
-		/// <param name="type">Type of container.</param>
-		/// <returns>Container for specified local id</returns>
-		private Container GetContainer(DMSType type)
+        private bool ContainerExistsTransaction(DMSType type)
+        {
+            if (TransactionnetworkDataModel.ContainsKey(type))
+            {
+                return true;
+            }
+
+            return false;
+        }
+
+        /// <summary>
+        /// Gets container of specified type.
+        /// </summary>
+        /// <param name="type">Type of container.</param>
+        /// <returns>Container for specified local id</returns>
+        private Container GetContainer(DMSType type)
 		{
 			if (ContainerExists(type))
 			{
@@ -108,17 +151,31 @@ namespace FTN.Services.NetworkModelService
 			
 		}
 
-		#endregion Find
+        private Container GetContainerTransaction(DMSType type)
+        {
+            if (ContainerExists(type))
+            {
+                return TransactionnetworkDataModel[type];
+            }
+            else
+            {
+                string message = string.Format("Container does not exist for type {0}.", type);
+                throw new Exception(message);
+            }
 
-		#region GDA query
+        }
 
-		/// <summary>
-		/// Gets resource description for entity requested by globalId.
-		/// </summary>
-		/// <param name="globalId">Id of the entity</param>
-		/// <param name="properties">List of requested properties</param>		
-		/// <returns>Resource description of the specified entity</returns>
-		public ResourceDescription GetValues(long globalId, List<ModelCode> properties)
+        #endregion Find
+
+        #region GDA query
+
+        /// <summary>
+        /// Gets resource description for entity requested by globalId.
+        /// </summary>
+        /// <param name="globalId">Id of the entity</param>
+        /// <param name="properties">List of requested properties</param>		
+        /// <returns>Resource description of the specified entity</returns>
+        public ResourceDescription GetValues(long globalId, List<ModelCode> properties)
 		{
 			CommonTrace.WriteTrace(CommonTrace.TraceVerbose, String.Format("Getting values for GID = 0x{0:x16}.", globalId));
 
