@@ -1,6 +1,7 @@
 using System;
 using FTN;
 using FTN.Common;
+using FTN.Services.NetworkModelService.DataModel.Core;
 
 namespace FTN.Services.NetworkModelService.DataModel.Meas
 {
@@ -15,6 +16,23 @@ namespace FTN.Services.NetworkModelService.DataModel.Meas
 
         public Analog(long globalId) : base(globalId)
         {
+        }
+
+        public override IdentifiedObject CloneEntity()
+        {
+            return new Analog(GlobalId)
+            {
+                MaxValue = this.MaxValue,
+                MeasurementType = this.MeasurementType,
+                MinValue = this.MinValue,
+                Mrid = this.Mrid,
+                Name = this.Name,
+                AliasName = this.AliasName,
+                NormalValue = this.NormalValue,
+                PowerSysResource = this.PowerSysResource,
+                DirectionMethod = this.DirectionMethod,
+                SaveAdress = this.SaveAdress,
+            };
         }
 
         public float MaxValue { get => maxValue; set => maxValue = value; }

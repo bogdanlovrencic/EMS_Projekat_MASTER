@@ -1,6 +1,7 @@
 using System;
 using FTN;
 using FTN.Common;
+using FTN.Services.NetworkModelService.DataModel.Core;
 
 namespace FTN.Services.NetworkModelService.DataModel.Wires
 {
@@ -14,6 +15,22 @@ namespace FTN.Services.NetworkModelService.DataModel.Wires
 
         public Generator(long globalId) : base(globalId)
         {
+        }
+
+        public override IdentifiedObject CloneEntity()
+        {
+            return new Generator(GlobalId)
+            {
+                Measurements = this.Measurements,
+                AliasName = this.AliasName,
+                EquipmentContainer = this.EquipmentContainer,
+                Mrid = this.Mrid,
+                Name = this.Name,
+                RatedS = this.RatedS,
+                GeneratorType = this.GeneratorType,
+                MaxQ = this.MaxQ,
+                MinQ = this.MinQ
+            };
         }
 
         public GeneratorType GeneratorType { get => generatorType; set => generatorType = value; }

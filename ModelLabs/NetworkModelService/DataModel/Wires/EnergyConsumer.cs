@@ -18,6 +18,21 @@ namespace FTN.Services.NetworkModelService.DataModel.Wires
         {
         }
 
+        public override IdentifiedObject CloneEntity()
+        {
+
+            return new EnergyConsumer(GlobalId)
+            {
+                Measurements = this.Measurements,
+                AliasName = this.AliasName,
+                EquipmentContainer = this.EquipmentContainer,
+                Mrid = this.Mrid,
+                Name = this.Name,
+                Pfixed = this.Pfixed,
+                CurrentPower = this.CurrentPower
+            };
+        }
+
         public float Pfixed { get => pfixed; set => pfixed = value; }
         public float CurrentPower { get => currentPower; set => currentPower = value; }
 

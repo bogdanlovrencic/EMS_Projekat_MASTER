@@ -15,6 +15,18 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
         {
         }
 
+        public override IdentifiedObject CloneEntity()
+        {
+            return new PowerSystemResource(GlobalId)
+            {
+                AliasName = this.AliasName,
+                Mrid = this.Mrid,
+                Name = this.Name,
+                Measurements = this.Measurements
+            };
+        }
+
+
         public List<long> Measurements { get => measurements; set => measurements = value; }
 
         public override bool Equals(object obj)

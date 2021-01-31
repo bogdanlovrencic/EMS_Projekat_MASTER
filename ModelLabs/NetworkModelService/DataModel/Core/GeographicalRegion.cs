@@ -14,6 +14,16 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
         {
         }
 
+        public override IdentifiedObject CloneEntity()
+        {
+            return new GeographicalRegion(GlobalId)
+            {
+                AliasName = this.AliasName,
+                Mrid = this.Mrid,
+                Name = this.Name,
+            };
+        }
+
         public override bool Equals(object obj)
         {
             if (base.Equals(obj))

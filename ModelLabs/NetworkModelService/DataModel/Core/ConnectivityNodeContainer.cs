@@ -12,7 +12,16 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
         {
         }
 
-
+        public override IdentifiedObject CloneEntity()
+        {
+            return new ConnectivityNodeContainer(GlobalId)
+            {
+                Measurements = this.Measurements,
+                AliasName = this.AliasName,
+                Mrid = this.Mrid,
+                Name = this.Name,
+            };
+        }
 
         public override bool Equals(object obj)
         {

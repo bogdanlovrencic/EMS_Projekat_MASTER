@@ -1,6 +1,7 @@
 using System;
 using FTN;
 using FTN.Common;
+using FTN.Services.NetworkModelService.DataModel.Core;
 
 namespace FTN.Services.NetworkModelService.DataModel.Wires
 {
@@ -10,6 +11,19 @@ namespace FTN.Services.NetworkModelService.DataModel.Wires
         private float ratedS; 
         public RotatingMachine(long globalId) : base(globalId)
         {
+        }
+
+        public override IdentifiedObject CloneEntity()
+        {
+            return new RotatingMachine(GlobalId)
+            {
+                Measurements = this.Measurements,
+                AliasName = this.AliasName,
+                EquipmentContainer = this.EquipmentContainer,
+                Mrid = this.Mrid,
+                Name = this.Name,
+                RatedS = this.RatedS
+            };
         }
 
         public float RatedS { get => ratedS; set => ratedS = value; }

@@ -15,6 +15,18 @@ namespace FTN.Services.NetworkModelService.DataModel.Wires
         {
         }
 
+        public override IdentifiedObject CloneEntity()
+        {
+            return new RegulatingCondEq(GlobalId)
+            {
+                Measurements = this.Measurements,
+                AliasName = this.AliasName,
+                EquipmentContainer = this.EquipmentContainer,
+                Mrid = this.Mrid,
+                Name = this.Name
+            };
+        }
+
         public override bool Equals(object obj)
         {
             if (base.Equals(obj))

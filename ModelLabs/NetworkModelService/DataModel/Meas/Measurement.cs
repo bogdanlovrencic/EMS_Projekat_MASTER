@@ -20,6 +20,20 @@ namespace FTN.Services.NetworkModelService.DataModel.Meas
 
         }
 
+        public override IdentifiedObject CloneEntity()
+        {
+            return new Measurement(GlobalId)
+            {
+                MeasurementType = this.MeasurementType,
+                Mrid = this.Mrid,
+                Name = this.Name,
+                AliasName = this.AliasName,
+                PowerSysResource = this.PowerSysResource,
+                DirectionMethod = this.DirectionMethod,
+                SaveAdress = this.SaveAdress,
+            };
+        }
+
         public Direction DirectionMethod { get => directionMethod; set => directionMethod = value; }
         public MeasurementType MeasurementType { get => measurementType; set => measurementType = value; }
         public string SaveAdress { get => saveAddress; set => saveAddress = value; }
