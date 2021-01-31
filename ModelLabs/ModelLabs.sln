@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIMParser", "CIMParser\CIMParser.csproj", "{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}"
 EndProject
@@ -59,6 +59,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ForMeasurement", "ForMeasurement", "{35328FDB-333F-4F91-8C61-E4CEB5A19A40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasurementCommon", "MeasurementCommon\MeasurementCommon.csproj", "{568D8153-CB44-4ABD-8456-73DA474D73FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TransactionService", "TransactionService", "{1DE8168C-9533-427E-93A5-C62C4501E6A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionService", "TransactionService\TransactionService.csproj", "{0FADF856-20CB-4D5E-BED7-0150CDF3B187}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -288,6 +292,18 @@ Global
 		{568D8153-CB44-4ABD-8456-73DA474D73FD}.Release|x64.Build.0 = Release|Any CPU
 		{568D8153-CB44-4ABD-8456-73DA474D73FD}.Release|x86.ActiveCfg = Release|Any CPU
 		{568D8153-CB44-4ABD-8456-73DA474D73FD}.Release|x86.Build.0 = Release|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Debug|x64.Build.0 = Debug|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Debug|x86.Build.0 = Debug|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Release|x64.ActiveCfg = Release|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Release|x64.Build.0 = Release|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Release|x86.ActiveCfg = Release|Any CPU
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -310,6 +326,7 @@ Global
 		{19D7D946-D26F-4125-899E-5D140BDF9ED2} = {EDAA6D31-011F-4184-8580-30D29595DA81}
 		{10CAED60-7DD0-49FE-ACCF-9693163DA99A} = {EDAA6D31-011F-4184-8580-30D29595DA81}
 		{568D8153-CB44-4ABD-8456-73DA474D73FD} = {35328FDB-333F-4F91-8C61-E4CEB5A19A40}
+		{0FADF856-20CB-4D5E-BED7-0150CDF3B187} = {1DE8168C-9533-427E-93A5-C62C4501E6A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C30BD279-F8A5-4FA2-A2DB-E3867B13E8BD}
