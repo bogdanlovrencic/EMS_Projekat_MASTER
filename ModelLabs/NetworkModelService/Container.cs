@@ -22,7 +22,7 @@ namespace FTN.Services.NetworkModelService
 		/// </summary>		
 		private Dictionary<long, IdentifiedObject> entities = new Dictionary<long, IdentifiedObject>();	
 
-        public Container CloneEnitiy()
+        public Container CloneContainer()
         {
             Container container = new Container();
             foreach (KeyValuePair<long, IdentifiedObject> entity in Entities)

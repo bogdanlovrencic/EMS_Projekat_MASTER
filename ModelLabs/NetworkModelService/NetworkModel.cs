@@ -20,7 +20,7 @@ namespace FTN.Services.NetworkModelService
 		/// Dictionaru which contains all data: Key - DMSType, Value - Container
 		/// </summary>
 		private Dictionary<DMSType, Container> networkDataModel;
-        private Dictionary<DMSType, Container> TransactionnetworkDataModel;
+        private Dictionary<DMSType, Container> TransactionNetworkDataModel;
 
         /// <summary>
         /// ModelResourceDesc class contains metadata of the model
@@ -33,7 +33,7 @@ namespace FTN.Services.NetworkModelService
 		public NetworkModel()
 		{
 			networkDataModel = new Dictionary<DMSType, Container>();
-            TransactionnetworkDataModel = new Dictionary<DMSType, Container>();
+            TransactionNetworkDataModel = new Dictionary<DMSType, Container>();
             resourcesDescs = new ModelResourcesDesc();			
 			Initialize();
 		}
@@ -106,6 +106,22 @@ namespace FTN.Services.NetworkModelService
             }
         }
 
+        public IdentifiedObject CopyEntity(long globalId)
+        {
+            DMSType type = (DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(globalId);
+            IdentifiedObject io = GetEntityTransaction(globalId);
+            IdentifiedObject ioNet = GetEntity(globalId);
+            if(Object.ReferenceEquals(io,ioNet))
+            {
+                io = ioNet.CloneEntity();
+            }
+
+            Container container = GetContainerTransaction(type);
+            container.Entities[globalId] = io;
+
+            return io;
+        }
+
 
         /// <summary>
         /// Checks if container exists in model.
@@ -124,7 +140,7 @@ namespace FTN.Services.NetworkModelService
 
         private bool ContainerExistsTransaction(DMSType type)
         {
-            if (TransactionnetworkDataModel.ContainsKey(type))
+            if (TransactionNetworkDataModel.ContainsKey(type))
             {
                 return true;
             }
@@ -150,12 +166,16 @@ namespace FTN.Services.NetworkModelService
 			}
 			
 		}
-
+        //Treba kopirati kontenjer, Transaction da ima nove kontenjere ali da pokazuju na iste entitete.
+        //Prilikom promene, prvo treba proveriti da li Entiteti iz Trans i Network pokazuju na isti objekat(ista ref).
+        //Ako pokazuju, kreiraj clone i radi sa njim. Ako ne, nista, samo radi.
+        //Kad se menja neki entitet, izbrise se veza ka tom entitetu kod kontenjera za Transactiion i kreira se cloneEntitet.
+        // Menja se clone. Ako je sve uspesno, Network pokazuje na Transaction. Kraj.
         private Container GetContainerTransaction(DMSType type)
         {
-            if (ContainerExists(type))
+            if (ContainerExistsTransaction(type))
             {
-                return TransactionnetworkDataModel[type];
+                return TransactionNetworkDataModel[type];
             }
             else
             {
@@ -291,6 +311,7 @@ namespace FTN.Services.NetworkModelService
 
 		public UpdateResult ApplyDelta(Delta delta)
 		{
+            
 			bool applyingStarted = false;
 			UpdateResult updateResult = new UpdateResult();
 
@@ -365,7 +386,7 @@ namespace FTN.Services.NetworkModelService
 			CommonTrace.WriteTrace(CommonTrace.TraceInfo, "Inserting entity with GID ({0:x16}).", globalId);
 
 			// check if mapping for specified global id already exists			
-			if (this.EntityExists(globalId))
+			if (this.EntityExistsTransaction(globalId))
 			{
 				string message = String.Format("Failed to insert entity because entity with specified GID ({0:x16}) already exists in network model.", globalId);
 				CommonTrace.WriteTrace(CommonTrace.TraceError, message);
@@ -380,14 +401,14 @@ namespace FTN.Services.NetworkModelService
 				Container container = null;
 
 				// get container or create container 
-				if (ContainerExists(type))
+				if (ContainerExistsTransaction(type))
 				{
-					container = GetContainer(type);
+					container = GetContainerTransaction(type);
 				}
 				else
 				{
 					container = new Container();
-					networkDataModel.Add(type, container);
+					TransactionNetworkDataModel.Add(type, container);
 				}
 
 				// create entity and add it to container
@@ -412,14 +433,14 @@ namespace FTN.Services.NetworkModelService
 							if (targetGlobalId != 0)
 							{
 
-								if (!EntityExists(targetGlobalId))
+								if (!EntityExistsTransaction(targetGlobalId))
 								{
 									string message = string.Format("Failed to get target entity with GID: 0x{0:X16}. {1}", targetGlobalId);
 									throw new Exception(message);
 								}
 
 								// get referenced entity for update
-								IdentifiedObject targetEntity = GetEntity(targetGlobalId);
+								IdentifiedObject targetEntity = GetEntityTransaction(targetGlobalId);
 								targetEntity.AddReference(property.Id, io.GlobalId);																	
 							}
 
@@ -460,14 +481,14 @@ namespace FTN.Services.NetworkModelService
 
 					CommonTrace.WriteTrace(CommonTrace.TraceVerbose, "Updating entity with GID ({0:x16}).", globalId);
 
-					if (!this.EntityExists(globalId))
+					if (!this.EntityExistsTransaction(globalId))
 					{
 						string message = String.Format("Failed to update entity because entity with specified GID ({0:x16}) does not exist in network model.", globalId);
 						CommonTrace.WriteTrace(CommonTrace.TraceError, message);
 						throw new Exception(message);
 					}
 
-					IdentifiedObject io = GetEntity(globalId);					
+					IdentifiedObject io = CopyEntity(globalId);					
 
 					// updating properties of entity
 					foreach (Property property in rd.Properties)
@@ -478,7 +499,7 @@ namespace FTN.Services.NetworkModelService
                             
                             if (oldTargetGlobalId != 0)
                             {
-                                IdentifiedObject oldTargetEntity = GetEntity(oldTargetGlobalId);
+                                IdentifiedObject oldTargetEntity = CopyEntity(oldTargetGlobalId);
                                 oldTargetEntity.RemoveReference(property.Id, globalId);
                             }
 
@@ -487,13 +508,13 @@ namespace FTN.Services.NetworkModelService
 
 							if (targetGlobalId != 0)
 							{								
-								if (!EntityExists(targetGlobalId))
+								if (!EntityExistsTransaction(targetGlobalId))
 								{
 									string message = string.Format("Failed to get target entity with GID: 0x{0:X16}.", targetGlobalId);
 									throw new Exception(message);
 								}
 
-                                IdentifiedObject targetEntity = GetEntity(targetGlobalId);
+                                IdentifiedObject targetEntity = CopyEntity(targetGlobalId);
                                 targetEntity.AddReference(property.Id, globalId);
 							}
 
@@ -536,7 +557,7 @@ namespace FTN.Services.NetworkModelService
 				CommonTrace.WriteTrace(CommonTrace.TraceVerbose, "Deleting entity with GID ({0:x16}).", globalId);
 
 				// check if entity exists
-				if (!this.EntityExists(globalId))
+				if (!this.EntityExistsTransaction(globalId))
 				{
 					string message = String.Format("Failed to delete entity because entity with specified GID ({0:x16}) does not exist in network model.", globalId);
 					CommonTrace.WriteTrace(CommonTrace.TraceError, message);
@@ -544,7 +565,7 @@ namespace FTN.Services.NetworkModelService
 				}
 
 				// get entity to be deleted
-				IdentifiedObject io = GetEntity(globalId);
+				IdentifiedObject io = CopyEntity(globalId);
 
 				// check if entity could be deleted (if it is not referenced by any other entity)
 				if (io.IsReferenced)
@@ -588,7 +609,7 @@ namespace FTN.Services.NetworkModelService
 							if (targetGlobalId != 0)
 							{
 								// get target entity
-								IdentifiedObject targetEntity = GetEntity(targetGlobalId);
+								IdentifiedObject targetEntity = CopyEntity(targetGlobalId);
 
 								// remove reference to another entity
 								targetEntity.RemoveReference(propertyId, globalId);
@@ -599,7 +620,7 @@ namespace FTN.Services.NetworkModelService
 
 				// remove entity form netowrk model
 				DMSType type = (DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(globalId);
-				Container container = GetContainer(type);
+				Container container = GetContainerTransaction(type);
 				container.RemoveEntity(globalId);
 
 				CommonTrace.WriteTrace(CommonTrace.TraceVerbose, "Deleting entity with GID ({0:x16}) successfully finished.", globalId);
@@ -722,6 +743,18 @@ namespace FTN.Services.NetworkModelService
 				{
 					CommonTrace.WriteTrace(CommonTrace.TraceError, "Error while applying delta (id = {0}) during service initialization. {1}", delta.Id, ex.Message);
 				}
+
+                foreach (KeyValuePair<DMSType, Container> item in TransactionNetworkDataModel)
+                {
+                    if (networkDataModel.ContainsKey(item.Key))
+                    {
+                        networkDataModel[item.Key] = item.Value.CloneContainer();
+                    }
+                    else
+                    {
+                        networkDataModel.Add(item.Key, item.Value.CloneContainer());
+                    }
+                }
 			}		
 		}
 

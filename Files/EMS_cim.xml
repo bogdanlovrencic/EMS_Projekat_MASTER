@@ -34,6 +34,14 @@
 		<cim:IdentifiedObject.mRID>EnergyConsumer_1</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>EnergyConsumer_1</cim:IdentifiedObject.name>
 	</cim:EnergyConsumer>
+	<cim:EnergyConsumer rdf:ID="EnergyConsumer_2">		
+		<cim:EnergyConsumer.pfixed>10</cim:EnergyConsumer.pfixed>
+		<cim:EnergyConsumer.currentPower>30</cim:EnergyConsumer.currentPower>
+		<cim:Equipment.EquipmentContainer rdf:resource="#Substation_1"/>
+		<cim:IdentifiedObject.aliasName>EnergyConsumer_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>EnergyConsumer_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>EnergyConsumer_1</cim:IdentifiedObject.name>
+	</cim:EnergyConsumer>
 	
 <!--Analog -->		
 	<cim:Analog rdf:ID="Analog_1">
