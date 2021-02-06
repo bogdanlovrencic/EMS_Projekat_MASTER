@@ -11,11 +11,12 @@ using FTN.Services.NetworkModelService.DataModel;
 using FTN.Services.NetworkModelService.DataModel.Core;
 using FTN.Services.NetworkModelService.DataModel.Wires;
 using FTN.Services.NetworkModelService.Model;
+using TransactionContract;
 
 namespace FTN.Services.NetworkModelService
 {	
-	public class NetworkModel
-	{
+	public class NetworkModel : ITransactionContract
+    {
 		/// <summary>
 		/// Dictionaru which contains all data: Key - DMSType, Value - Container
 		/// </summary>
@@ -26,11 +27,12 @@ namespace FTN.Services.NetworkModelService
         /// ModelResourceDesc class contains metadata of the model
         /// </summary>
         private ModelResourcesDesc resourcesDescs;
-	
-		/// <summary>
-		/// Initializes a new instance of the Model class.
-		/// </summary>
-		public NetworkModel()
+        private Delta saveDelta;
+
+        /// <summary>
+        /// Initializes a new instance of the Model class.
+        /// </summary>
+        public NetworkModel()
 		{
 			networkDataModel = new Dictionary<DMSType, Container>();
             TransactionNetworkDataModel = new Dictionary<DMSType, Container>();
@@ -166,6 +168,7 @@ namespace FTN.Services.NetworkModelService
 			}
 			
 		}
+
         //Treba kopirati kontenjer, Transaction da ima nove kontenjere ali da pokazuju na iste entitete.
         //Prilikom promene, prvo treba proveriti da li Entiteti iz Trans i Network pokazuju na isti objekat(ista ref).
         //Ako pokazuju, kreiraj clone i radi sa njim. Ako ne, nista, samo radi.
@@ -355,7 +358,7 @@ namespace FTN.Services.NetworkModelService
 			{
 				if (applyingStarted)
 				{
-					SaveDelta(delta);
+                    saveDelta = delta;
 				}
 
 				if (updateResult.Result == ResultType.Succeeded)
@@ -935,5 +938,40 @@ namespace FTN.Services.NetworkModelService
             }
         }
 
+        public bool Commit()
+        {
+            try
+            {
+                networkDataModel = TransactionNetworkDataModel;
+                SaveDelta(saveDelta);
+                CommonTrace.WriteTrace(CommonTrace.TraceInfo, "Commit successfully finished in NMS!");
+                return true;
+            }
+            catch (Exception)
+            {
+                CommonTrace.WriteTrace(CommonTrace.TraceInfo, "Commit error in NMS!");
+                return false;
+            }
+        }
+
+        public bool Rollback()
+        {
+            try
+            {
+                TransactionNetworkDataModel = networkDataModel;
+                CommonTrace.WriteTrace(CommonTrace.TraceInfo, "Rollback successfully finished in NMS!");
+                return true;
+            }
+            catch (Exception)
+            {
+                CommonTrace.WriteTrace(CommonTrace.TraceInfo, "Rollback error in NMS!");
+                return false;
+            }
+        }
+
+        public UpdateResult Prepare()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
