@@ -11,7 +11,7 @@ namespace FTN.Services.NetworkModelService
     {
         public DbSet<DeltaSave> deltaSaves { get; set; }
 
-        public NMSContext() : base("name=AppContextConnectionString")
+        public NMSContext() : base("AppContextConnectionString")
         {
             //Database.SetInitializer<NMSContext>(new CreateDatabaseIfNotExists<NMSContext>());
         }
