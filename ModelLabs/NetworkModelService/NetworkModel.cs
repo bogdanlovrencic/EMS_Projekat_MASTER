@@ -15,7 +15,7 @@ using TransactionContract;
 
 namespace FTN.Services.NetworkModelService
 {	
-	public class NetworkModel : ITransactionContract
+	public class NetworkModel //
     {
 		/// <summary>
 		/// Dictionaru which contains all data: Key - DMSType, Value - Container
@@ -29,20 +29,39 @@ namespace FTN.Services.NetworkModelService
         private ModelResourcesDesc resourcesDescs;
         private Delta saveDelta;
 
+
+        public static EventHandler<ArgumentCaller> actionCall;
         /// <summary>
         /// Initializes a new instance of the Model class.
         /// </summary>
         public NetworkModel()
 		{
-			networkDataModel = new Dictionary<DMSType, Container>();
+            actionCall = new EventHandler<ArgumentCaller>(CallMethod);
+            networkDataModel = new Dictionary<DMSType, Container>();
             TransactionNetworkDataModel = new Dictionary<DMSType, Container>();
             resourcesDescs = new ModelResourcesDesc();			
-			Initialize();
+			Initialize();            
 		}
-	
-		#region Find
-		
-		public bool EntityExists(long globalId)
+
+        public void CallMethod(object sender,ArgumentCaller argumentCaller)
+        {
+            if(argumentCaller.Method == "Commit")
+            {
+                this.Commit();
+            }
+            if(argumentCaller.Method == "Rollback")
+            {
+                this.Rollback();
+            }
+            if(argumentCaller.Method == "Prepare")
+            {
+                this.Prepare();
+            }
+        }
+
+        #region Find
+
+        public bool EntityExists(long globalId)
 		{
 			DMSType type = (DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(globalId);
 
@@ -359,7 +378,10 @@ namespace FTN.Services.NetworkModelService
 				if (applyingStarted)
 				{
                     saveDelta = delta;
-				}
+                    ApplyTransaction(saveDelta);
+                    
+
+                }
 
 				if (updateResult.Result == ResultType.Succeeded)
 				{
@@ -758,7 +780,9 @@ namespace FTN.Services.NetworkModelService
                         networkDataModel.Add(item.Key, item.Value.CloneContainer());
                     }
                 }
-			}		
+                ApplyTransaction(delta);
+
+            }		
 		}
 
 		private void SaveDelta(Delta delta)
@@ -942,9 +966,11 @@ namespace FTN.Services.NetworkModelService
         {
             try
             {
+
                 networkDataModel = TransactionNetworkDataModel;
                 SaveDelta(saveDelta);
                 CommonTrace.WriteTrace(CommonTrace.TraceInfo, "Commit successfully finished in NMS!");
+                Console.WriteLine("Uspeo Commit");
                 return true;
             }
             catch (Exception)
@@ -969,9 +995,30 @@ namespace FTN.Services.NetworkModelService
             }
         }
 
-        public UpdateResult Prepare()
+        public bool Prepare()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Uspeo PREPARE");
+            return true;
+        }
+
+        public void ApplyTransaction(Delta delta)
+        {
+            try
+            {
+                //StartEnlist
+                TransactionProxy transactionProxy = new TransactionProxy();
+                transactionProxy.StartEnlist();
+                //Enlist
+                //Call Scada
+                //Call Calc
+                //EndEnlist
+                transactionProxy.EndEnlist(true);
+            }
+            catch (Exception)
+            {
+                //EndEnlist(false)
+                throw;
+            }
         }
     }
 }

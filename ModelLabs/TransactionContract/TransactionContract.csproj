@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArgumentCaller.cs" />
     <Compile Include="ITransactionContract.cs" />
+    <Compile Include="ITransactionResourceManager.cs" />
+    <Compile Include="NMSProxy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TransactionProxy.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj">

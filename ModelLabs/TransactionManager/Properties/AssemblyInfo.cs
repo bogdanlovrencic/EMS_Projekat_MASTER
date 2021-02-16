@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TransactionService")]
+[assembly: AssemblyTitle("TransactionManager")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TransactionService")]
+[assembly: AssemblyProduct("TransactionManager")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0fadf856-20cb-4d5e-bed7-0150cdf3b187")]
+[assembly: Guid("53facb6d-0253-48c4-95c4-a5fda46c1b40")]
 
 // Version information for an assembly consists of the following four values:
 //

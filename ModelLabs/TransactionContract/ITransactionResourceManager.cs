@@ -1,23 +1,21 @@
-﻿using FTN.Common;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace TransactionContract
 {
     [ServiceContract]
-    public interface ITransactionContract
+    public interface ITransactionResourceManager
     {
         [OperationContract]
-        bool Commit();
+        bool StartEnlist();
 
         [OperationContract]
-        bool Rollback();
+        void Enlist();
 
         [OperationContract]
-        bool Prepare();        
+        void EndEnlist(bool success);
     }
 }
