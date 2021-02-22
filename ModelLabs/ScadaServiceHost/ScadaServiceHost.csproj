@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ScadaService\ScadaService.csproj">
+      <Project>{19d7d946-d26f-4125-899e-5d140bdf9ed2}</Project>
+      <Name>ScadaService</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
