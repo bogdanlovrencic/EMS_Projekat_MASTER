@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn1" Height="40" Width="100" Content="Button" Margin="75,99,617,281"></Button>
+        <Button x:Name="btn2" Height="40" Width="100" Content="Button1" Margin="251,105,441,275"></Button>
+        <Button x:Name="btn3" Height="40" Width="100" Content="Button2" Margin="423,104,269,276"></Button>
+        <Button x:Name="btn4" Height="40" Width="100" Content="Button3" Margin="609,104,83,276"></Button>
+    </Grid>
+</Window>
