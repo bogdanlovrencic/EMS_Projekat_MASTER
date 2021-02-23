@@ -51,6 +51,10 @@
       <Project>{a4718c53-65ba-4aa7-bc95-ea42d7095c3f}</Project>
       <Name>ScadaContracts</Name>
     </ProjectReference>
+    <ProjectReference Include="..\WpfApp\WpfApp.csproj">
+      <Project>{1f0a0d1d-08b8-4511-b792-404722b85157}</Project>
+      <Name>WpfApp</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
