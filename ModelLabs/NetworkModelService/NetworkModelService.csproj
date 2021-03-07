@@ -94,6 +94,10 @@
     <Compile Include="Migrations\202101241507312_InitialMigration.designer.cs">
       <DependentUpon>202101241507312_InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202103071301197_saveTimeMigration.cs" />
+    <Compile Include="Migrations\202103071301197_saveTimeMigration.designer.cs">
+      <DependentUpon>202103071301197_saveTimeMigration.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\DeltaSave.cs" />
     <Compile Include="NetworkModel.cs" />
@@ -130,6 +134,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202101241507312_InitialMigration.resx">
       <DependentUpon>202101241507312_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202103071301197_saveTimeMigration.resx">
+      <DependentUpon>202103071301197_saveTimeMigration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

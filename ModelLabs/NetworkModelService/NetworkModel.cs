@@ -793,7 +793,7 @@ namespace FTN.Services.NetworkModelService
             {
                 NMSContext dbContext = new NMSContext();
                 DeltaSave deltaSave = new DeltaSave();
-
+                deltaSave.AddedDate = DateTime.Now;
                 deltaSave.DeltaInfo = ToByteArray<Delta>(delta);
                 dbContext.deltaSaves.Add(deltaSave);
                 dbContext.SaveChanges();

@@ -102,7 +102,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
 
             if (equipments != null && equipments.Count != 0 && (refType == TypeOfReference.Target || refType == TypeOfReference.Both))
             {
-                references[ModelCode.EQUIPMENTCONT_EQUIPMENTS] = equipments.GetRange(0, Measurements.Count);
+                references[ModelCode.EQUIPMENTCONT_EQUIPMENTS] = equipments.GetRange(0, equipments.Count);
             }
 
             base.GetReferences(references, refType);

@@ -10,5 +10,6 @@ namespace FTN.Services.NetworkModelService.Model
     {
         public int Id { get; set; }
         public byte[] DeltaInfo { get; set; }
+        public DateTime AddedDate { get; set; }
     }
 }

@@ -20,6 +20,7 @@
 		<cim:Generator.minQ>0</cim:Generator.minQ>
 		<cim:RotatingMachine.ratedS>100</cim:RotatingMachine.ratedS>
 		<cim:Equipment.EquipmentContainer rdf:resource="#Substation_1"/>
+		<cim:RotatingMachine.GeographicalRegion rdf:resource="#GeographicalRegion_1"/>
 		<cim:IdentifiedObject.aliasName>Generator_1</cim:IdentifiedObject.aliasName>
 		<cim:IdentifiedObject.mRID>Generator_1</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>Generator_1</cim:IdentifiedObject.name>

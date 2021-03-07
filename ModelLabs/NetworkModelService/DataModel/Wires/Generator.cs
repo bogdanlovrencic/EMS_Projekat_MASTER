@@ -22,6 +22,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Wires
             return new Generator(GlobalId)
             {
                 Measurements = this.Measurements,
+                GeographicalRegion = this.GeographicalRegion,
                 AliasName = this.AliasName,
                 EquipmentContainer = this.EquipmentContainer,
                 Mrid = this.Mrid,

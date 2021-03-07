@@ -210,6 +210,17 @@ For CIMXML data files in RDF syntax, the mRID is mapped to rdf:ID or rdf:about a
     <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:0..1"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
   </rdf:Description>
+  <rdf:Description rdf:about="#RotatingMachine.GeographicalRegion">
+    <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#ofAggregate"/>
+    <rdfs:comment>GeographicalRegion of this RotatingMachine.</rdfs:comment>
+    <rdfs:label>GeographicalRegion</rdfs:label>
+    <cims:inverseRoleName rdf:resource="#GeographicalRegion.RotatingMachines"/>
+    <rdfs:range rdf:resource="#GeographicalRegion"/>
+    <rdfs:domain rdf:resource="#RotatingMachine"/>
+    <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:0..1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <!-- OVDEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee -->
   <rdf:Description rdf:about="#RotatingMachine.ratedS">
     <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#attribute"/>
     <rdfs:comment>Nameplate apparent power rating for the unit.</rdfs:comment>
@@ -324,13 +335,25 @@ For CIMXML data files in RDF syntax, the mRID is mapped to rdf:ID or rdf:about a
     <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#byreference"/>
     <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#aggregateOf"/>
     <rdfs:comment>Contained equipment.</rdfs:comment>
-    <rdfs:label>Equipments</rdfs:label>
+    <rdfs:label>Equipments</rdfs:label>	
     <cims:inverseRoleName rdf:resource="#Equipment.EquipmentContainer"/>
     <rdfs:range rdf:resource="#Equipment"/>
     <rdfs:domain rdf:resource="#EquipmentContainer"/>
     <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:0..n"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
   </rdf:Description>
+  <rdf:Description rdf:about="#GeographicalRegion.RotatingMachines">
+    <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#byreference"/>
+    <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#aggregateOf"/>
+    <rdfs:comment>Contained RotatingMachine.</rdfs:comment>
+    <rdfs:label>RotatingMachines</rdfs:label>	
+    <cims:inverseRoleName rdf:resource="#RotatingMachine.GeographicalRegion"/>
+    <rdfs:range rdf:resource="#RotatingMachine"/>
+    <rdfs:domain rdf:resource="#GeographicalRegion"/>
+    <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:0..n"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <!--GeographicalRegion.RotatingMachines -->
   <rdf:Description rdf:about="#Measurement.measurementType">
     <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#attribute"/>
     <rdfs:comment>Specifies the type of measurement.  For example, this specifies if the measurement represents an indoor temperature, outdoor temperature, bus voltage, line flow, etc.</rdfs:comment>

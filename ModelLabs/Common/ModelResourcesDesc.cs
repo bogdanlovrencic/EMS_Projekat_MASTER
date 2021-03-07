@@ -880,8 +880,9 @@ namespace FTN.Common
 			notSettablePropertyIds.Add(ModelCode.IDOBJ_GID);
 			notSettablePropertyIds.Add(ModelCode.PWRSYSRS_MEASUREMENTS);
 			notSettablePropertyIds.Add(ModelCode.EQUIPMENTCONT_EQUIPMENTS);
+            notSettablePropertyIds.Add(ModelCode.GEOGRAPHICALREGION_ROTATINGMACHINES);
 
-		}
+        }
 	
 		# endregion Initialization of metadata
 
