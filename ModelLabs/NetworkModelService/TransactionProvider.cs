@@ -13,7 +13,7 @@ namespace FTN.Services.NetworkModelService
         {
             try
             {
-                NetworkModel.actionCall.Invoke(this, new ArgumentCaller() { Method = "Commit" });
+                NetworkModel.actionCall?.Invoke(this, new ArgumentCaller() { Method = "Commit" });
                 return true;
             }
             catch (Exception e)
@@ -27,7 +27,7 @@ namespace FTN.Services.NetworkModelService
         {
             try
             {
-                NetworkModel.actionCall.Invoke(this, new ArgumentCaller() { Method = "Prepare" });
+                NetworkModel.actionCall?.Invoke(this, new ArgumentCaller() { Method = "Prepare" });
                 return true;
             }
             catch (Exception e)
@@ -40,7 +40,7 @@ namespace FTN.Services.NetworkModelService
         {
             try
             {
-                NetworkModel.actionCall.Invoke(this, new ArgumentCaller() { Method = "Rollback" });
+                NetworkModel.actionCall?.Invoke(this, new ArgumentCaller() { Method = "Rollback" });
                 return true;
             }
             catch (Exception e)

@@ -28,6 +28,7 @@ namespace FTN.Services.NetworkModelService
         /// </summary>
         private ModelResourcesDesc resourcesDescs;
         private Delta saveDelta;
+        private bool readFromDb = true;
 
 
         public static EventHandler<ArgumentCaller> actionCall;
@@ -1003,22 +1004,30 @@ namespace FTN.Services.NetworkModelService
 
         public void ApplyTransaction(Delta delta)
         {
-            try
+            if(!readFromDb)
             {
-                //StartEnlist
-                TransactionProxy transactionProxy = new TransactionProxy();
-                transactionProxy.StartEnlist();
-                //Enlist
-                //Call Scada
-                //Call Calc
-                //EndEnlist
-                transactionProxy.EndEnlist(true);
+                try
+                {
+                    //StartEnlist
+                    TransactionProxy transactionProxy = new TransactionProxy();
+                    transactionProxy.StartEnlist();
+                    //Enlist
+                    //Call Scada
+                    //Call Calc
+                    //EndEnlist
+                    transactionProxy.EndEnlist(true);
+                }
+                catch (Exception)
+                {
+                    //EndEnlist(false)
+                    throw;
+                }
             }
-            catch (Exception)
+            else
             {
-                //EndEnlist(false)
-                throw;
+                readFromDb = false;
             }
+            
         }
     }
 }
